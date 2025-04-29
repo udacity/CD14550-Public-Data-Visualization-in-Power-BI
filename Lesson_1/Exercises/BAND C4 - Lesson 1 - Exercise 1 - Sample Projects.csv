@@ -1,0 +1,688 @@
+Project ID,Project Name,Task Name,Task ID,Start Date,Finish Date,Status,Owner
+P001,Website Redesign,Bug Fixing,252c9345,2025-01-07,2025-01-09,In Progress,John Campbell
+P001,Website Redesign,Client Review,19a2d123,2025-01-07,2025-01-14,Not Started,Shawna Thompson
+P001,Website Redesign,Code Review,eb8c7173,2025-01-09,2025-01-14,Delayed,Andrea Simmons MD
+P001,Website Redesign,Frontend Development,d004bd0e,2025-01-11,2025-01-13,In Progress,Angela Murphy
+P001,Website Redesign,Develop Draft Design,aa627573,2025-01-12,2025-01-14,Delayed,Angela Murphy
+P001,Website Redesign,Sprint Planning,9d8dcf81,2025-01-15,2025-01-22,Completed,Angela Murphy
+P001,Website Redesign,Database Setup,16e26d24,2025-01-18,2025-01-21,Not Started,Andrea Simmons MD
+P001,Website Redesign,User Testing,a6161950,2025-01-18,2025-01-24,In Progress,Elizabeth Lopez
+P001,Website Redesign,Database Setup,d6bdf1ce,2025-01-21,2025-01-28,Completed,Angela Murphy
+P001,Website Redesign,Accessibility Compliance,60617896,2025-01-22,2025-01-26,Completed,Shawna Thompson
+P001,Website Redesign,Quality Assurance,8907d24b,2025-01-26,2025-01-29,Completed,Travis Hays
+P001,Website Redesign,Backend Development,4d7c5a68,2025-01-26,2025-01-30,Not Started,Travis Hays
+P001,Website Redesign,Backend Development,da584e35,2025-01-29,2025-02-03,In Progress,Shawna Thompson
+P001,Website Redesign,Go-Live,0d2e6e42,2025-02-01,2025-02-04,Delayed,Angela Murphy
+P001,Website Redesign,Quality Assurance,60bbccea,2025-02-01,2025-02-05,Completed,Angela Murphy
+P001,Website Redesign,Infrastructure Provisioning,9ab51503,2025-02-04,2025-02-11,In Progress,Travis Hays
+P001,Website Redesign,Infrastructure Provisioning,b5771c86,2025-02-08,2025-02-14,Delayed,Ashley Shields
+P001,Website Redesign,Launch Preparation,facf3f04,2025-02-07,2025-02-09,Completed,Kelly Chase
+P001,Website Redesign,Database Setup,9a98a1cd,2025-02-11,2025-02-14,Completed,Shawna Thompson
+P001,Website Redesign,Infrastructure Provisioning,d825affd,2025-02-14,2025-02-17,Delayed,Travis Hays
+P001,Website Redesign,Deployment,71de6954,2025-02-16,2025-02-20,In Progress,Lori Cox
+P002,Mobile App Development,Client Review,687a8cf6,2025-03-13,2025-03-14,Completed,John Campbell
+P002,Mobile App Development,Finalize Design,c62654fc,2025-03-16,2025-03-17,Delayed,Shawna Thompson
+P002,Mobile App Development,Backend Development,26fd48ae,2025-03-18,2025-03-20,Completed,Angela Murphy
+P002,Mobile App Development,Launch Preparation,528aef41,2025-03-20,2025-03-22,In Progress,Elizabeth Lopez
+P002,Mobile App Development,Launch Preparation,79327a5e,2025-03-21,2025-03-27,Completed,Travis Hays
+P002,Mobile App Development,Finalize Design,5a19bf56,2025-03-26,2025-03-30,Completed,Jennifer Parker
+P002,Mobile App Development,Database Setup,ed9ad1e4,2025-03-28,2025-03-30,In Progress,John Campbell
+P002,Mobile App Development,User Testing,bc81f1da,2025-03-30,2025-04-05,Delayed,Jennifer Parker
+P002,Mobile App Development,Go-Live,446b3e1b,2025-03-31,2025-04-03,Delayed,Jennifer Parker
+P002,Mobile App Development,Bug Fixing,4dc76f9f,2025-04-01,2025-04-08,Not Started,Angela Murphy
+P002,Mobile App Development,Submit for Approval,df14f261,2025-04-04,2025-04-07,Delayed,Shawna Thompson
+P003,Backend API Development,Frontend Development,546d1a7b,2025-01-30,2025-02-05,Delayed,Andrea Simmons MD
+P003,Backend API Development,Develop Draft Design,4d9c51b8,2025-02-01,2025-02-04,Not Started,Andrea Simmons MD
+P003,Backend API Development,API Integration,85abde2c,2025-02-03,2025-02-08,Completed,Shawna Thompson
+P003,Backend API Development,Accessibility Compliance,5198688e,2025-02-06,2025-02-10,In Progress,Ashley Shields
+P003,Backend API Development,Bug Fixing,b5217e59,2025-02-07,2025-02-09,Completed,Ashley Shields
+P003,Backend API Development,Develop Draft Design,223b4d16,2025-02-11,2025-02-16,Delayed,Shawna Thompson
+P003,Backend API Development,Go-Live,f19c0018,2025-02-13,2025-02-15,Completed,Elizabeth Lopez
+P003,Backend API Development,Go-Live,91b82184,2025-02-13,2025-02-14,Not Started,Lori Cox
+P003,Backend API Development,Bug Fixing,6fd2a106,2025-02-14,2025-02-17,Completed,Lori Cox
+P003,Backend API Development,Develop Draft Design,c6acefbf,2025-02-19,2025-02-25,Not Started,Kelly Chase
+P003,Backend API Development,Infrastructure Provisioning,6ff8ad10,2025-02-18,2025-02-20,Not Started,Angela Murphy
+P003,Backend API Development,Frontend Development,527ecebc,2025-02-21,2025-02-24,Delayed,Shawna Thompson
+P003,Backend API Development,Finalize Design,6f379ae1,2025-02-25,2025-02-28,Delayed,Elizabeth Lopez
+P003,Backend API Development,Develop Draft Design,76c50e4d,2025-02-26,2025-02-27,In Progress,Elizabeth Lopez
+P003,Backend API Development,Database Setup,48af253e,2025-02-28,2025-03-07,Delayed,Ashley Shields
+P003,Backend API Development,Infrastructure Provisioning,e2552364,2025-03-03,2025-03-05,In Progress,Shawna Thompson
+P003,Backend API Development,Integration Testing,1db2fa85,2025-03-05,2025-03-12,Not Started,Ashley Shields
+P003,Backend API Development,Database Setup,d5103e3f,2025-03-05,2025-03-09,Delayed,Kelly Chase
+P003,Backend API Development,Deployment,6e2133df,2025-03-06,2025-03-08,Delayed,Ashley Shields
+P004,Cloud Infrastructure Setup,Sprint Planning,c7b4a89e,2025-03-08,2025-03-15,Delayed,Kelly Chase
+P004,Cloud Infrastructure Setup,Finalize Design,8eb0267e,2025-03-08,2025-03-14,Delayed,Travis Hays
+P004,Cloud Infrastructure Setup,Database Setup,3a4f5e4b,2025-03-11,2025-03-14,Not Started,Angela Murphy
+P004,Cloud Infrastructure Setup,Post-Launch Support,c1186998,2025-03-15,2025-03-20,Completed,Jennifer Parker
+P004,Cloud Infrastructure Setup,Go-Live,ca635764,2025-03-17,2025-03-19,In Progress,Jennifer Parker
+P004,Cloud Infrastructure Setup,Client Review,29a710cf,2025-03-18,2025-03-21,Delayed,Shawna Thompson
+P004,Cloud Infrastructure Setup,Launch Preparation,5caa689e,2025-03-19,2025-03-20,In Progress,Angela Murphy
+P004,Cloud Infrastructure Setup,Launch Preparation,c5657fa2,2025-03-22,2025-03-29,Completed,Jennifer Parker
+P004,Cloud Infrastructure Setup,Security Audit,a48dddfb,2025-03-24,2025-03-28,Not Started,Jennifer Parker
+P004,Cloud Infrastructure Setup,Client Review,1c2a8b5a,2025-03-27,2025-04-02,In Progress,Elizabeth Lopez
+P004,Cloud Infrastructure Setup,Code Review,bfba5926,2025-03-28,2025-04-04,In Progress,Travis Hays
+P004,Cloud Infrastructure Setup,Frontend Development,e14f1a94,2025-03-28,2025-04-03,Delayed,Kelly Chase
+P004,Cloud Infrastructure Setup,Database Setup,5b458dbe,2025-04-02,2025-04-09,In Progress,John Campbell
+P004,Cloud Infrastructure Setup,Submit for Approval,5cfbef32,2025-04-03,2025-04-06,Delayed,Travis Hays
+P004,Cloud Infrastructure Setup,Sprint Planning,7b1ba67c,2025-04-03,2025-04-04,Not Started,Elizabeth Lopez
+P004,Cloud Infrastructure Setup,Post-Launch Support,a821b161,2025-04-06,2025-04-08,Not Started,Kelly Chase
+P004,Cloud Infrastructure Setup,Finalize Design,32c3c23c,2025-04-07,2025-04-11,In Progress,Ashley Shields
+P004,Cloud Infrastructure Setup,Infrastructure Provisioning,5bd809db,2025-04-09,2025-04-14,Delayed,Angela Murphy
+P004,Cloud Infrastructure Setup,Develop Draft Design,c0162b0c,2025-04-13,2025-04-14,Completed,Kelly Chase
+P004,Cloud Infrastructure Setup,Performance Testing,42ea29fc,2025-04-13,2025-04-14,In Progress,Angela Murphy
+P004,Cloud Infrastructure Setup,Integration Testing,73108192,2025-04-15,2025-04-19,Not Started,Travis Hays
+P004,Cloud Infrastructure Setup,Database Setup,ec25fd45,2025-04-20,2025-04-27,Completed,Elizabeth Lopez
+P004,Cloud Infrastructure Setup,Backend Development,bed825ae,2025-04-21,2025-04-26,Not Started,Ashley Shields
+P004,Cloud Infrastructure Setup,Post-Launch Support,a93d9cf4,2025-04-23,2025-04-24,In Progress,Jennifer Parker
+P004,Cloud Infrastructure Setup,Integration Testing,3d9b2fdb,2025-04-23,2025-04-24,In Progress,Jennifer Parker
+P004,Cloud Infrastructure Setup,UAT Sign-off,1e4e51bc,2025-04-28,2025-04-30,In Progress,Jennifer Parker
+P004,Cloud Infrastructure Setup,UAT Sign-off,57ffd4e5,2025-04-28,2025-05-03,In Progress,Jennifer Parker
+P004,Cloud Infrastructure Setup,Client Review,7bad7e99,2025-05-02,2025-05-08,Not Started,John Campbell
+P004,Cloud Infrastructure Setup,Performance Testing,4ca89721,2025-05-03,2025-05-09,Delayed,Andrea Simmons MD
+P004,Cloud Infrastructure Setup,Backend Development,67500b8a,2025-05-03,2025-05-05,In Progress,Jennifer Parker
+P004,Cloud Infrastructure Setup,Code Review,2760e12c,2025-05-08,2025-05-13,Completed,Lori Cox
+P004,Cloud Infrastructure Setup,UAT Sign-off,8a57b00b,2025-05-10,2025-05-13,Completed,Jennifer Parker
+P004,Cloud Infrastructure Setup,Post-Launch Support,25a66739,2025-05-11,2025-05-18,Completed,Andrea Simmons MD
+P004,Cloud Infrastructure Setup,Launch Preparation,d6781ce4,2025-05-14,2025-05-21,Completed,John Campbell
+P004,Cloud Infrastructure Setup,Submit for Approval,a72e5f7c,2025-05-14,2025-05-19,In Progress,Andrea Simmons MD
+P004,Cloud Infrastructure Setup,Client Review,4fcaae61,2025-05-17,2025-05-20,Delayed,Angela Murphy
+P004,Cloud Infrastructure Setup,Security Audit,0235ca1f,2025-05-20,2025-05-21,Not Started,Shawna Thompson
+P004,Cloud Infrastructure Setup,User Testing,ac8d0d5e,2025-05-19,2025-05-24,In Progress,Shawna Thompson
+P004,Cloud Infrastructure Setup,Code Review,c6bbf405,2025-05-21,2025-05-24,In Progress,Kelly Chase
+P004,Cloud Infrastructure Setup,Frontend Development,42560010,2025-05-25,2025-05-26,Completed,Jennifer Parker
+P004,Cloud Infrastructure Setup,Security Audit,b9264ddb,2025-05-26,2025-05-27,Not Started,Angela Murphy
+P004,Cloud Infrastructure Setup,Deployment,19b60d83,2025-05-29,2025-05-31,In Progress,Shawna Thompson
+P005,Security Enhancements,Documentation,51e4583d,2025-02-06,2025-02-09,In Progress,Travis Hays
+P005,Security Enhancements,Backend Development,8b61cac4,2025-02-09,2025-02-11,Not Started,Andrea Simmons MD
+P005,Security Enhancements,Backend Development,c3ca37f6,2025-02-13,2025-02-20,Not Started,Kelly Chase
+P005,Security Enhancements,Frontend Development,81e33879,2025-02-15,2025-02-18,Delayed,Lori Cox
+P005,Security Enhancements,Integration Testing,76ce17e2,2025-02-15,2025-02-18,Not Started,Angela Murphy
+P005,Security Enhancements,Integration Testing,bec1e26a,2025-02-16,2025-02-21,Delayed,Shawna Thompson
+P005,Security Enhancements,Finalize Design,c2a4d442,2025-02-18,2025-02-22,Delayed,Lori Cox
+P005,Security Enhancements,Submit for Approval,4fd1f612,2025-02-21,2025-02-25,In Progress,Angela Murphy
+P005,Security Enhancements,Code Review,49690428,2025-02-25,2025-03-03,In Progress,Jennifer Parker
+P005,Security Enhancements,Code Review,4331974a,2025-02-25,2025-02-27,Not Started,Shawna Thompson
+P005,Security Enhancements,Documentation,78c79ad6,2025-03-01,2025-03-04,Not Started,Ashley Shields
+P005,Security Enhancements,UAT Sign-off,bbb6239a,2025-03-03,2025-03-07,Completed,Travis Hays
+P005,Security Enhancements,API Integration,6a2b0d07,2025-03-03,2025-03-06,Completed,John Campbell
+P005,Security Enhancements,User Testing,0581dade,2025-03-04,2025-03-11,Completed,Lori Cox
+P005,Security Enhancements,Sprint Planning,fa19d711,2025-03-08,2025-03-13,Delayed,John Campbell
+P005,Security Enhancements,Develop Draft Design,7696f9cb,2025-03-09,2025-03-13,Not Started,Kelly Chase
+P005,Security Enhancements,API Integration,71cb04bf,2025-03-11,2025-03-17,Completed,Lori Cox
+P005,Security Enhancements,Database Setup,5bde4b85,2025-03-12,2025-03-13,Not Started,Kelly Chase
+P005,Security Enhancements,Performance Testing,772c5a3a,2025-03-15,2025-03-22,Completed,Elizabeth Lopez
+P005,Security Enhancements,Go-Live,ac2751c7,2025-03-18,2025-03-24,Not Started,Shawna Thompson
+P005,Security Enhancements,Accessibility Compliance,622c2126,2025-03-21,2025-03-25,Not Started,Travis Hays
+P005,Security Enhancements,Infrastructure Provisioning,182688c5,2025-03-21,2025-03-27,In Progress,Kelly Chase
+P005,Security Enhancements,Go-Live,02ec92bb,2025-03-24,2025-03-29,Delayed,John Campbell
+P005,Security Enhancements,Client Review,49d95a8e,2025-03-25,2025-03-31,Not Started,Andrea Simmons MD
+P005,Security Enhancements,Performance Testing,7276cad3,2025-03-26,2025-03-29,In Progress,Elizabeth Lopez
+P005,Security Enhancements,Launch Preparation,494bc896,2025-03-30,2025-04-01,Completed,Elizabeth Lopez
+P005,Security Enhancements,Accessibility Compliance,621d6b29,2025-04-02,2025-04-08,Not Started,Ashley Shields
+P005,Security Enhancements,Go-Live,31043f14,2025-04-04,2025-04-10,Completed,Travis Hays
+P005,Security Enhancements,Stakeholder Feedback,593e3938,2025-04-03,2025-04-04,Completed,Andrea Simmons MD
+P005,Security Enhancements,Stakeholder Feedback,078e2dfd,2025-04-06,2025-04-10,Not Started,Travis Hays
+P005,Security Enhancements,Submit for Approval,5b1af65b,2025-04-10,2025-04-17,Not Started,Lori Cox
+P005,Security Enhancements,Deployment,47fe967c,2025-04-10,2025-04-15,Delayed,Jennifer Parker
+P006,UI/UX Improvements,Develop Draft Design,e88c9318,2024-05-15,2024-05-22,Not Started,Shawna Thompson
+P006,UI/UX Improvements,Go-Live,48599786,2024-05-18,2024-05-25,Not Started,Jennifer Parker
+P006,UI/UX Improvements,Frontend Development,35f3c296,2024-05-19,2024-05-21,In Progress,Travis Hays
+P006,UI/UX Improvements,Code Review,4ea49e50,2024-05-22,2024-05-28,In Progress,Ashley Shields
+P006,UI/UX Improvements,Launch Preparation,cd485534,2024-05-24,2024-05-29,In Progress,Andrea Simmons MD
+P006,UI/UX Improvements,Develop Draft Design,a8dfd6dd,2024-05-24,2024-05-29,In Progress,Andrea Simmons MD
+P006,UI/UX Improvements,UAT Sign-off,a36cab4c,2024-05-27,2024-06-01,Completed,Angela Murphy
+P006,UI/UX Improvements,Frontend Development,3d4908da,2024-05-28,2024-05-30,In Progress,John Campbell
+P006,UI/UX Improvements,Post-Launch Support,93eee2c1,2024-05-30,2024-06-06,In Progress,Shawna Thompson
+P006,UI/UX Improvements,Post-Launch Support,429cc94a,2024-06-01,2024-06-05,In Progress,John Campbell
+P006,UI/UX Improvements,Deployment,8b4cdcac,2024-06-03,2024-06-06,Not Started,Jennifer Parker
+P007,Feature Expansion,Go-Live,9e271882,2024-06-23,2024-06-30,Delayed,Travis Hays
+P007,Feature Expansion,User Testing,bfe3f8cf,2024-06-25,2024-06-27,Delayed,Andrea Simmons MD
+P007,Feature Expansion,Frontend Development,624e1115,2024-06-24,2024-06-29,Delayed,Travis Hays
+P007,Feature Expansion,Accessibility Compliance,395b8ea1,2024-06-29,2024-07-04,Not Started,Jennifer Parker
+P007,Feature Expansion,Launch Preparation,50819144,2024-06-28,2024-07-02,Delayed,Elizabeth Lopez
+P007,Feature Expansion,Performance Testing,69d7dc54,2024-07-01,2024-07-06,Delayed,Elizabeth Lopez
+P007,Feature Expansion,Documentation,6e725935,2024-07-05,2024-07-10,Not Started,Kelly Chase
+P007,Feature Expansion,Infrastructure Provisioning,0133f5e6,2024-07-06,2024-07-10,Delayed,Shawna Thompson
+P007,Feature Expansion,Infrastructure Provisioning,3647d5cc,2024-07-08,2024-07-12,In Progress,Andrea Simmons MD
+P007,Feature Expansion,Bug Fixing,3950fde1,2024-07-10,2024-07-15,Not Started,Jennifer Parker
+P007,Feature Expansion,Go-Live,fb6c8cf0,2024-07-11,2024-07-15,Delayed,Ashley Shields
+P007,Feature Expansion,Documentation,0366954f,2024-07-12,2024-07-14,In Progress,Andrea Simmons MD
+P007,Feature Expansion,Go-Live,7b964ee6,2024-07-17,2024-07-20,Delayed,Elizabeth Lopez
+P007,Feature Expansion,Backend Development,2f30921f,2024-07-17,2024-07-21,In Progress,Angela Murphy
+P007,Feature Expansion,Performance Testing,d115ddd9,2024-07-18,2024-07-21,Completed,Lori Cox
+P007,Feature Expansion,User Testing,c7678a2c,2024-07-20,2024-07-21,Not Started,Angela Murphy
+P007,Feature Expansion,Quality Assurance,b48a2033,2024-07-24,2024-07-25,Delayed,Jennifer Parker
+P007,Feature Expansion,Performance Testing,c39ee63e,2024-07-25,2024-07-29,Delayed,Elizabeth Lopez
+P007,Feature Expansion,Stakeholder Feedback,49df8d33,2024-07-27,2024-07-30,In Progress,Lori Cox
+P007,Feature Expansion,Backend Development,d5903c0c,2024-07-29,2024-07-31,Not Started,Andrea Simmons MD
+P007,Feature Expansion,Integration Testing,f9379728,2024-08-01,2024-08-04,Delayed,Shawna Thompson
+P007,Feature Expansion,Finalize Design,326415d3,2024-08-02,2024-08-03,In Progress,Kelly Chase
+P007,Feature Expansion,Finalize Design,2d50e715,2024-08-03,2024-08-08,Completed,Elizabeth Lopez
+P007,Feature Expansion,UAT Sign-off,937c72a0,2024-08-08,2024-08-12,Delayed,Jennifer Parker
+P007,Feature Expansion,UAT Sign-off,b1e5af09,2024-08-07,2024-08-12,Delayed,Kelly Chase
+P007,Feature Expansion,Bug Fixing,cce3ca6e,2024-08-10,2024-08-15,Delayed,Angela Murphy
+P007,Feature Expansion,Code Review,71e0b7d4,2024-08-14,2024-08-18,Not Started,John Campbell
+P007,Feature Expansion,Stakeholder Feedback,adc6d38e,2024-08-13,2024-08-15,Completed,John Campbell
+P007,Feature Expansion,UAT Sign-off,f737a8d5,2024-08-16,2024-08-17,In Progress,Lori Cox
+P007,Feature Expansion,Database Setup,2966ad5b,2024-08-17,2024-08-23,Completed,Elizabeth Lopez
+P007,Feature Expansion,Accessibility Compliance,6f127bc2,2024-08-20,2024-08-27,Not Started,John Campbell
+P007,Feature Expansion,Code Review,fd6291ca,2024-08-23,2024-08-26,Not Started,Elizabeth Lopez
+P007,Feature Expansion,Client Review,37e20e7d,2024-08-23,2024-08-27,In Progress,Lori Cox
+P007,Feature Expansion,Quality Assurance,db41fc7b,2024-08-27,2024-09-01,In Progress,Angela Murphy
+P007,Feature Expansion,Develop Draft Design,74491ce4,2024-08-29,2024-08-30,Not Started,Shawna Thompson
+P007,Feature Expansion,Performance Testing,0480635b,2024-08-31,2024-09-03,Delayed,Ashley Shields
+P007,Feature Expansion,Develop Draft Design,7622871f,2024-09-03,2024-09-10,Not Started,Shawna Thompson
+P007,Feature Expansion,Backend Development,4617a058,2024-09-05,2024-09-07,Not Started,Shawna Thompson
+P007,Feature Expansion,Infrastructure Provisioning,fea18dad,2024-09-06,2024-09-11,Delayed,Jennifer Parker
+P007,Feature Expansion,Launch Preparation,1faba4da,2024-09-07,2024-09-13,In Progress,John Campbell
+P007,Feature Expansion,Post-Launch Support,05d6f4ca,2024-09-08,2024-09-09,Not Started,Angela Murphy
+P007,Feature Expansion,Launch Preparation,adaaac41,2024-09-12,2024-09-16,Completed,Shawna Thompson
+P007,Feature Expansion,Submit for Approval,48cc418c,2024-09-14,2024-09-16,Delayed,Jennifer Parker
+P007,Feature Expansion,Deployment,0bc56a73,2024-09-17,2024-09-21,In Progress,John Campbell
+P008,Database Migration,UAT Sign-off,476adf52,2024-09-02,2024-09-09,In Progress,Kelly Chase
+P008,Database Migration,Post-Launch Support,dbd704fe,2024-09-06,2024-09-13,Completed,Angela Murphy
+P008,Database Migration,Develop Draft Design,fcf92c49,2024-09-09,2024-09-16,Not Started,Lori Cox
+P008,Database Migration,Develop Draft Design,fcdca90c,2024-09-11,2024-09-13,Delayed,Jennifer Parker
+P008,Database Migration,Stakeholder Feedback,66e04294,2024-09-12,2024-09-16,Delayed,Elizabeth Lopez
+P008,Database Migration,User Testing,45ff5962,2024-09-14,2024-09-19,Completed,Jennifer Parker
+P008,Database Migration,Accessibility Compliance,09483208,2024-09-14,2024-09-16,Completed,Travis Hays
+P008,Database Migration,Performance Testing,8ae1f3f4,2024-09-16,2024-09-18,Completed,Elizabeth Lopez
+P008,Database Migration,Post-Launch Support,4036c940,2024-09-20,2024-09-24,In Progress,John Campbell
+P008,Database Migration,Infrastructure Provisioning,515eb532,2024-09-23,2024-09-25,Not Started,Shawna Thompson
+P008,Database Migration,Integration Testing,0e01db85,2024-09-24,2024-09-30,Not Started,Shawna Thompson
+P008,Database Migration,Stakeholder Feedback,01accd7f,2024-09-27,2024-09-28,Delayed,Kelly Chase
+P008,Database Migration,Develop Draft Design,a25d7f0e,2024-09-28,2024-10-02,Completed,Kelly Chase
+P008,Database Migration,Finalize Design,bae904d0,2024-09-30,2024-10-02,Not Started,Travis Hays
+P008,Database Migration,Frontend Development,eac3ce94,2024-09-30,2024-10-07,In Progress,Ashley Shields
+P008,Database Migration,Performance Testing,60e2a38c,2024-10-05,2024-10-10,Not Started,Angela Murphy
+P008,Database Migration,Frontend Development,5392ed6c,2024-10-05,2024-10-07,Completed,Angela Murphy
+P008,Database Migration,Code Review,9d31ff15,2024-10-08,2024-10-15,Completed,Lori Cox
+P008,Database Migration,Develop Draft Design,fcd15a8c,2024-10-08,2024-10-15,In Progress,Kelly Chase
+P008,Database Migration,UAT Sign-off,6aaf65aa,2024-10-10,2024-10-14,Delayed,Jennifer Parker
+P008,Database Migration,Launch Preparation,912ce3b9,2024-10-12,2024-10-13,Completed,Elizabeth Lopez
+P008,Database Migration,Deployment,a9a6d65c,2024-10-14,2024-10-17,Delayed,Elizabeth Lopez
+P009,Performance Optimization,Security Audit,0eef18ef,2024-05-27,2024-05-29,Completed,Jennifer Parker
+P009,Performance Optimization,Sprint Planning,9556ad13,2024-05-31,2024-06-03,In Progress,Shawna Thompson
+P009,Performance Optimization,Frontend Development,44a42bf1,2024-06-01,2024-06-03,Not Started,Shawna Thompson
+P009,Performance Optimization,Integration Testing,2129cbea,2024-06-04,2024-06-09,Delayed,Elizabeth Lopez
+P009,Performance Optimization,Frontend Development,5836371e,2024-06-05,2024-06-06,Delayed,Elizabeth Lopez
+P009,Performance Optimization,Documentation,67f13dd6,2024-06-06,2024-06-10,Not Started,Ashley Shields
+P009,Performance Optimization,Quality Assurance,a5e4c07b,2024-06-11,2024-06-15,In Progress,John Campbell
+P009,Performance Optimization,Backend Development,b9aa529f,2024-06-13,2024-06-18,Completed,Shawna Thompson
+P009,Performance Optimization,Frontend Development,b1022170,2024-06-14,2024-06-21,In Progress,Jennifer Parker
+P009,Performance Optimization,Bug Fixing,a321eadd,2024-06-14,2024-06-21,Delayed,John Campbell
+P009,Performance Optimization,User Testing,a75ba317,2024-06-17,2024-06-18,Delayed,Ashley Shields
+P009,Performance Optimization,Client Review,56c2d3f8,2024-06-21,2024-06-24,Delayed,Angela Murphy
+P009,Performance Optimization,Backend Development,af7dc106,2024-06-21,2024-06-23,In Progress,John Campbell
+P009,Performance Optimization,Develop Draft Design,9d7ab0eb,2024-06-24,2024-06-27,Delayed,Lori Cox
+P009,Performance Optimization,Stakeholder Feedback,c2c9834c,2024-06-26,2024-07-03,Completed,Angela Murphy
+P009,Performance Optimization,Deployment,d9cef7df,2024-06-29,2024-06-30,Not Started,Angela Murphy
+P010,Bug Fixing Sprint,Bug Fixing,12f50fe0,2024-11-17,2024-11-21,Not Started,Travis Hays
+P010,Bug Fixing Sprint,Quality Assurance,b3e02bcc,2024-11-17,2024-11-24,Delayed,Andrea Simmons MD
+P010,Bug Fixing Sprint,Performance Testing,8c29f9f5,2024-11-20,2024-11-25,In Progress,Lori Cox
+P010,Bug Fixing Sprint,Stakeholder Feedback,7bf5af65,2024-11-20,2024-11-26,Delayed,Ashley Shields
+P010,Bug Fixing Sprint,Client Review,9ad3bf79,2024-11-25,2024-11-28,Not Started,Angela Murphy
+P010,Bug Fixing Sprint,User Testing,053e8b46,2024-11-25,2024-11-28,Delayed,Ashley Shields
+P010,Bug Fixing Sprint,API Integration,9a43c371,2024-11-26,2024-12-02,Delayed,Travis Hays
+P010,Bug Fixing Sprint,Performance Testing,4540a2a9,2024-12-01,2024-12-07,Not Started,Ashley Shields
+P010,Bug Fixing Sprint,Sprint Planning,2f9a36ad,2024-12-01,2024-12-08,In Progress,John Campbell
+P010,Bug Fixing Sprint,Performance Testing,ecf9632d,2024-12-02,2024-12-09,In Progress,Lori Cox
+P010,Bug Fixing Sprint,Security Audit,9a812eb6,2024-12-07,2024-12-12,Completed,Andrea Simmons MD
+P010,Bug Fixing Sprint,Infrastructure Provisioning,bda0861a,2024-12-09,2024-12-11,In Progress,Travis Hays
+P010,Bug Fixing Sprint,Infrastructure Provisioning,0f2ae01e,2024-12-10,2024-12-15,Completed,Andrea Simmons MD
+P010,Bug Fixing Sprint,Stakeholder Feedback,29755711,2024-12-12,2024-12-13,Not Started,John Campbell
+P010,Bug Fixing Sprint,Security Audit,670c3d5c,2024-12-15,2024-12-22,In Progress,Shawna Thompson
+P010,Bug Fixing Sprint,Deployment,5d0eecdc,2024-12-14,2024-12-17,Not Started,Elizabeth Lopez
+P011,E-Commerce Platform,API Integration,443f93fa,2025-02-21,2025-02-26,Completed,Elizabeth Lopez
+P011,E-Commerce Platform,Accessibility Compliance,d080f1e0,2025-02-20,2025-02-25,Delayed,Travis Hays
+P011,E-Commerce Platform,Accessibility Compliance,ad2ee5bf,2025-02-22,2025-02-27,Delayed,Ashley Shields
+P011,E-Commerce Platform,Finalize Design,53e7b4c7,2025-02-25,2025-03-03,Completed,Angela Murphy
+P011,E-Commerce Platform,UAT Sign-off,5d15414d,2025-02-26,2025-03-03,Not Started,Kelly Chase
+P011,E-Commerce Platform,Database Setup,554dd064,2025-03-03,2025-03-09,Not Started,Jennifer Parker
+P011,E-Commerce Platform,Frontend Development,2e184f45,2025-03-04,2025-03-09,Not Started,Travis Hays
+P011,E-Commerce Platform,Database Setup,277c2f59,2025-03-04,2025-03-08,Delayed,Jennifer Parker
+P011,E-Commerce Platform,Database Setup,999fa8e2,2025-03-09,2025-03-14,Completed,Andrea Simmons MD
+P011,E-Commerce Platform,Security Audit,f3b705f9,2025-03-10,2025-03-17,Completed,Shawna Thompson
+P011,E-Commerce Platform,Sprint Planning,4544601a,2025-03-11,2025-03-12,Completed,John Campbell
+P011,E-Commerce Platform,Bug Fixing,035b116c,2025-03-14,2025-03-15,Delayed,John Campbell
+P011,E-Commerce Platform,Quality Assurance,cebab511,2025-03-15,2025-03-20,Not Started,Shawna Thompson
+P011,E-Commerce Platform,Database Setup,053d5e62,2025-03-16,2025-03-19,Delayed,Ashley Shields
+P011,E-Commerce Platform,Go-Live,f020ddf3,2025-03-19,2025-03-24,Not Started,Shawna Thompson
+P011,E-Commerce Platform,API Integration,0fc00b4a,2025-03-22,2025-03-24,Completed,Shawna Thompson
+P011,E-Commerce Platform,Client Review,af0bab86,2025-03-24,2025-03-25,Not Started,John Campbell
+P011,E-Commerce Platform,Post-Launch Support,f4a36c44,2025-03-25,2025-03-30,In Progress,Angela Murphy
+P011,E-Commerce Platform,Sprint Planning,4c06ab63,2025-03-28,2025-04-04,In Progress,Shawna Thompson
+P011,E-Commerce Platform,Client Review,552fbd06,2025-03-29,2025-04-02,In Progress,Jennifer Parker
+P011,E-Commerce Platform,Submit for Approval,08345522,2025-03-30,2025-04-02,Not Started,Lori Cox
+P011,E-Commerce Platform,Develop Draft Design,75ca7f0c,2025-04-02,2025-04-09,Delayed,Andrea Simmons MD
+P011,E-Commerce Platform,Launch Preparation,63d75604,2025-04-06,2025-04-08,Delayed,Lori Cox
+P011,E-Commerce Platform,Code Review,56676c4c,2025-04-06,2025-04-11,Completed,Elizabeth Lopez
+P011,E-Commerce Platform,Infrastructure Provisioning,2e71b784,2025-04-09,2025-04-16,Not Started,Elizabeth Lopez
+P011,E-Commerce Platform,Post-Launch Support,705cab83,2025-04-10,2025-04-14,Delayed,Angela Murphy
+P011,E-Commerce Platform,User Testing,6762be44,2025-04-13,2025-04-17,In Progress,Andrea Simmons MD
+P011,E-Commerce Platform,Sprint Planning,c19eb800,2025-04-16,2025-04-20,Completed,Lori Cox
+P011,E-Commerce Platform,Infrastructure Provisioning,d34e4645,2025-04-18,2025-04-19,Completed,Angela Murphy
+P011,E-Commerce Platform,Bug Fixing,65fa6395,2025-04-20,2025-04-26,Completed,Jennifer Parker
+P011,E-Commerce Platform,Performance Testing,83767a5e,2025-04-19,2025-04-20,Completed,Andrea Simmons MD
+P011,E-Commerce Platform,Stakeholder Feedback,876210d3,2025-04-23,2025-04-26,Completed,Shawna Thompson
+P011,E-Commerce Platform,Infrastructure Provisioning,3cdf4fd9,2025-04-23,2025-04-26,Delayed,Angela Murphy
+P011,E-Commerce Platform,Quality Assurance,193e8f13,2025-04-26,2025-05-02,In Progress,Jennifer Parker
+P011,E-Commerce Platform,Code Review,7ecf75b5,2025-04-29,2025-05-05,In Progress,Travis Hays
+P011,E-Commerce Platform,Security Audit,67bc9cdf,2025-04-29,2025-05-05,Not Started,Ashley Shields
+P011,E-Commerce Platform,Bug Fixing,727796e1,2025-05-01,2025-05-05,Not Started,Jennifer Parker
+P011,E-Commerce Platform,Quality Assurance,acdc5924,2025-05-03,2025-05-09,Delayed,Travis Hays
+P011,E-Commerce Platform,Stakeholder Feedback,a428ed3b,2025-05-06,2025-05-12,Completed,Shawna Thompson
+P011,E-Commerce Platform,Integration Testing,584a0bdf,2025-05-08,2025-05-09,Not Started,John Campbell
+P011,E-Commerce Platform,Accessibility Compliance,5cbd00dd,2025-05-09,2025-05-10,In Progress,John Campbell
+P011,E-Commerce Platform,Finalize Design,eaea4cb1,2025-05-11,2025-05-17,Not Started,Ashley Shields
+P011,E-Commerce Platform,Code Review,5bbcf024,2025-05-14,2025-05-18,In Progress,Ashley Shields
+P011,E-Commerce Platform,Deployment,d6fd9df6,2025-05-16,2025-05-19,Completed,Angela Murphy
+P012,DevOps Pipeline Setup,Stakeholder Feedback,d9446299,2024-10-19,2024-10-21,Delayed,Ashley Shields
+P012,DevOps Pipeline Setup,Go-Live,25bb607e,2024-10-22,2024-10-24,Delayed,Lori Cox
+P012,DevOps Pipeline Setup,Backend Development,bac47435,2024-10-24,2024-10-25,In Progress,Jennifer Parker
+P012,DevOps Pipeline Setup,Infrastructure Provisioning,87ed1165,2024-10-26,2024-10-28,Not Started,Angela Murphy
+P012,DevOps Pipeline Setup,Documentation,0d7bd485,2024-10-27,2024-10-28,Not Started,Ashley Shields
+P012,DevOps Pipeline Setup,Performance Testing,fcfe1825,2024-10-27,2024-11-01,Completed,Angela Murphy
+P012,DevOps Pipeline Setup,Quality Assurance,66824eeb,2024-10-29,2024-11-02,In Progress,Elizabeth Lopez
+P012,DevOps Pipeline Setup,Submit for Approval,95f7acfc,2024-10-31,2024-11-06,Delayed,Shawna Thompson
+P012,DevOps Pipeline Setup,Performance Testing,48373075,2024-11-03,2024-11-09,Completed,Andrea Simmons MD
+P012,DevOps Pipeline Setup,Database Setup,6fef243b,2024-11-04,2024-11-09,Delayed,Angela Murphy
+P012,DevOps Pipeline Setup,Submit for Approval,e009714e,2024-11-09,2024-11-13,Not Started,Jennifer Parker
+P012,DevOps Pipeline Setup,Go-Live,903f7aba,2024-11-09,2024-11-10,Delayed,Angela Murphy
+P012,DevOps Pipeline Setup,Deployment,19adffa0,2024-11-10,2024-11-15,Completed,Travis Hays
+P013,AI Integration,Infrastructure Provisioning,8084e28e,2024-08-08,2024-08-09,Not Started,Travis Hays
+P013,AI Integration,Stakeholder Feedback,0f0cf438,2024-08-07,2024-08-10,Not Started,Andrea Simmons MD
+P013,AI Integration,Go-Live,9f5e6de2,2024-08-09,2024-08-11,Delayed,Jennifer Parker
+P013,AI Integration,User Testing,6251da13,2024-08-12,2024-08-18,In Progress,Ashley Shields
+P013,AI Integration,Security Audit,9440863d,2024-08-13,2024-08-19,In Progress,Angela Murphy
+P013,AI Integration,Post-Launch Support,ce0030b1,2024-08-15,2024-08-19,Not Started,Kelly Chase
+P013,AI Integration,User Testing,4bfb8147,2024-08-18,2024-08-19,In Progress,Elizabeth Lopez
+P013,AI Integration,Bug Fixing,a6d7550d,2024-08-21,2024-08-28,Not Started,Angela Murphy
+P013,AI Integration,Performance Testing,b135b898,2024-08-22,2024-08-29,Not Started,Ashley Shields
+P013,AI Integration,Sprint Planning,a63eae8c,2024-08-23,2024-08-27,In Progress,Ashley Shields
+P013,AI Integration,Quality Assurance,ab9c82e6,2024-08-26,2024-08-30,Completed,Andrea Simmons MD
+P013,AI Integration,Develop Draft Design,91803e57,2024-08-29,2024-08-30,In Progress,Travis Hays
+P013,AI Integration,Database Setup,39b8c301,2024-08-30,2024-09-06,Not Started,John Campbell
+P013,AI Integration,Quality Assurance,1c11c06c,2024-09-01,2024-09-04,Not Started,Ashley Shields
+P013,AI Integration,UAT Sign-off,ef26fd2b,2024-09-04,2024-09-06,Delayed,Lori Cox
+P013,AI Integration,Documentation,3e4114b8,2024-09-06,2024-09-11,In Progress,Angela Murphy
+P013,AI Integration,Stakeholder Feedback,bd9bc5ef,2024-09-07,2024-09-12,Not Started,Lori Cox
+P013,AI Integration,User Testing,af02d651,2024-09-08,2024-09-15,Delayed,Lori Cox
+P013,AI Integration,Stakeholder Feedback,ef0bc00b,2024-09-10,2024-09-14,Not Started,Elizabeth Lopez
+P013,AI Integration,Launch Preparation,51e191e0,2024-09-12,2024-09-14,Not Started,John Campbell
+P013,AI Integration,Client Review,8a2d98c5,2024-09-16,2024-09-20,Delayed,Lori Cox
+P013,AI Integration,Quality Assurance,18f885da,2024-09-17,2024-09-19,Completed,Jennifer Parker
+P013,AI Integration,UAT Sign-off,269674cc,2024-09-21,2024-09-25,In Progress,Lori Cox
+P013,AI Integration,Integration Testing,509dce0f,2024-09-20,2024-09-25,In Progress,Angela Murphy
+P013,AI Integration,Code Review,be7f57c1,2024-09-22,2024-09-28,Completed,Travis Hays
+P013,AI Integration,Submit for Approval,9d8b9cf1,2024-09-27,2024-09-28,In Progress,Kelly Chase
+P013,AI Integration,Security Audit,49c91d2c,2024-09-26,2024-10-01,Not Started,John Campbell
+P013,AI Integration,Frontend Development,10d4fdca,2024-09-30,2024-10-07,In Progress,Angela Murphy
+P013,AI Integration,Deployment,0f8dc8fb,2024-10-01,2024-10-04,Not Started,Kelly Chase
+P014,Chatbot Development,Performance Testing,12b43f10,2024-06-19,2024-06-23,Not Started,Ashley Shields
+P014,Chatbot Development,UAT Sign-off,a2769667,2024-06-22,2024-06-28,Delayed,John Campbell
+P014,Chatbot Development,Post-Launch Support,c651d21f,2024-06-25,2024-06-29,In Progress,Travis Hays
+P014,Chatbot Development,Bug Fixing,027305ac,2024-06-26,2024-07-03,Not Started,Travis Hays
+P014,Chatbot Development,Quality Assurance,8685519c,2024-06-28,2024-06-29,In Progress,Andrea Simmons MD
+P014,Chatbot Development,Sprint Planning,9175a09c,2024-06-30,2024-07-04,In Progress,Ashley Shields
+P014,Chatbot Development,Submit for Approval,044e1a63,2024-07-04,2024-07-09,Delayed,Elizabeth Lopez
+P014,Chatbot Development,Sprint Planning,6e7644f7,2024-07-06,2024-07-08,In Progress,John Campbell
+P014,Chatbot Development,Frontend Development,779ac987,2024-07-08,2024-07-10,Delayed,Travis Hays
+P014,Chatbot Development,Infrastructure Provisioning,1c45eafd,2024-07-08,2024-07-12,In Progress,Travis Hays
+P014,Chatbot Development,API Integration,985e29b9,2024-07-11,2024-07-13,Completed,Lori Cox
+P014,Chatbot Development,Launch Preparation,dd3087f4,2024-07-11,2024-07-17,Not Started,Shawna Thompson
+P014,Chatbot Development,Submit for Approval,1f25ddbf,2024-07-14,2024-07-15,Delayed,Angela Murphy
+P014,Chatbot Development,Launch Preparation,67894674,2024-07-18,2024-07-20,Completed,Kelly Chase
+P014,Chatbot Development,Go-Live,caedb8af,2024-07-19,2024-07-24,In Progress,John Campbell
+P014,Chatbot Development,Quality Assurance,ac7559e8,2024-07-20,2024-07-25,In Progress,Ashley Shields
+P014,Chatbot Development,Deployment,a537fe6d,2024-07-24,2024-07-31,Delayed,Kelly Chase
+P015,Data Analytics Dashboard,Bug Fixing,ac242c2e,2024-05-01,2024-05-07,Completed,Jennifer Parker
+P015,Data Analytics Dashboard,Bug Fixing,afad647d,2024-04-30,2024-05-03,Delayed,Shawna Thompson
+P015,Data Analytics Dashboard,Develop Draft Design,e2efc0d9,2024-05-03,2024-05-10,Not Started,John Campbell
+P015,Data Analytics Dashboard,Infrastructure Provisioning,e7d37c11,2024-05-06,2024-05-12,Not Started,Jennifer Parker
+P015,Data Analytics Dashboard,Accessibility Compliance,de6702e8,2024-05-08,2024-05-09,Not Started,Andrea Simmons MD
+P015,Data Analytics Dashboard,Backend Development,cb8c9e4f,2024-05-10,2024-05-14,Not Started,Travis Hays
+P015,Data Analytics Dashboard,Infrastructure Provisioning,ff851b3f,2024-05-12,2024-05-14,Not Started,Jennifer Parker
+P015,Data Analytics Dashboard,Finalize Design,24300daf,2024-05-13,2024-05-15,Completed,Kelly Chase
+P015,Data Analytics Dashboard,Go-Live,1af3df6f,2024-05-14,2024-05-20,Delayed,John Campbell
+P015,Data Analytics Dashboard,Go-Live,c4c9cf9e,2024-05-17,2024-05-24,In Progress,Travis Hays
+P015,Data Analytics Dashboard,Documentation,35fe7215,2024-05-20,2024-05-23,Delayed,Shawna Thompson
+P015,Data Analytics Dashboard,Documentation,ecb7814a,2024-05-20,2024-05-21,Completed,Travis Hays
+P015,Data Analytics Dashboard,Infrastructure Provisioning,883df0ca,2024-05-25,2024-05-29,Not Started,Angela Murphy
+P015,Data Analytics Dashboard,Submit for Approval,08ab7d9c,2024-05-26,2024-05-30,Completed,Ashley Shields
+P015,Data Analytics Dashboard,Post-Launch Support,eb084cb7,2024-05-27,2024-05-31,Not Started,Ashley Shields
+P015,Data Analytics Dashboard,Launch Preparation,1a78ccdb,2024-05-31,2024-06-02,Completed,Ashley Shields
+P015,Data Analytics Dashboard,Code Review,c6371472,2024-05-30,2024-06-01,Completed,Ashley Shields
+P015,Data Analytics Dashboard,Infrastructure Provisioning,06188e8a,2024-06-02,2024-06-06,In Progress,Kelly Chase
+P015,Data Analytics Dashboard,Database Setup,ada44da0,2024-06-03,2024-06-06,Delayed,Jennifer Parker
+P015,Data Analytics Dashboard,API Integration,fa1cdbd6,2024-06-06,2024-06-10,Completed,Andrea Simmons MD
+P015,Data Analytics Dashboard,UAT Sign-off,16d4bfe3,2024-06-10,2024-06-16,Not Started,Shawna Thompson
+P015,Data Analytics Dashboard,User Testing,df25e838,2024-06-10,2024-06-11,Not Started,Kelly Chase
+P015,Data Analytics Dashboard,Code Review,6c1f1976,2024-06-13,2024-06-17,Completed,Travis Hays
+P015,Data Analytics Dashboard,User Testing,b6d91eaa,2024-06-16,2024-06-21,Delayed,Angela Murphy
+P015,Data Analytics Dashboard,Launch Preparation,424275ce,2024-06-17,2024-06-22,In Progress,Shawna Thompson
+P015,Data Analytics Dashboard,UAT Sign-off,4043c67b,2024-06-18,2024-06-25,Completed,Kelly Chase
+P015,Data Analytics Dashboard,Infrastructure Provisioning,2df49387,2024-06-22,2024-06-25,Completed,Elizabeth Lopez
+P015,Data Analytics Dashboard,Finalize Design,c99db264,2024-06-22,2024-06-25,Completed,Angela Murphy
+P015,Data Analytics Dashboard,Finalize Design,f3e58b1f,2024-06-24,2024-06-29,In Progress,Jennifer Parker
+P015,Data Analytics Dashboard,Post-Launch Support,845e0569,2024-06-27,2024-06-29,In Progress,Lori Cox
+P015,Data Analytics Dashboard,Develop Draft Design,a4d6c871,2024-06-28,2024-06-30,Not Started,Elizabeth Lopez
+P015,Data Analytics Dashboard,Sprint Planning,269be930,2024-07-01,2024-07-06,In Progress,Angela Murphy
+P015,Data Analytics Dashboard,Quality Assurance,fbc9123d,2024-07-03,2024-07-06,In Progress,Kelly Chase
+P015,Data Analytics Dashboard,Bug Fixing,7207e45b,2024-07-03,2024-07-09,Completed,Travis Hays
+P015,Data Analytics Dashboard,Integration Testing,71c0de99,2024-07-06,2024-07-09,Delayed,Jennifer Parker
+P015,Data Analytics Dashboard,Integration Testing,9e215dd3,2024-07-08,2024-07-13,Completed,Ashley Shields
+P015,Data Analytics Dashboard,Post-Launch Support,c4c22b0b,2024-07-09,2024-07-13,Delayed,Lori Cox
+P015,Data Analytics Dashboard,Bug Fixing,f7cb7fee,2024-07-14,2024-07-17,In Progress,Elizabeth Lopez
+P015,Data Analytics Dashboard,Client Review,e2168e69,2024-07-15,2024-07-21,Completed,Angela Murphy
+P015,Data Analytics Dashboard,UAT Sign-off,6a2f560c,2024-07-17,2024-07-24,In Progress,John Campbell
+P015,Data Analytics Dashboard,Quality Assurance,8198d69f,2024-07-20,2024-07-23,Not Started,Angela Murphy
+P015,Data Analytics Dashboard,Accessibility Compliance,4dc30623,2024-07-19,2024-07-21,Not Started,Shawna Thompson
+P015,Data Analytics Dashboard,Stakeholder Feedback,7ada5387,2024-07-21,2024-07-25,In Progress,Angela Murphy
+P015,Data Analytics Dashboard,UAT Sign-off,686b063d,2024-07-25,2024-07-26,Completed,Elizabeth Lopez
+P015,Data Analytics Dashboard,Develop Draft Design,05ca7f08,2024-07-26,2024-07-31,In Progress,Shawna Thompson
+P015,Data Analytics Dashboard,Stakeholder Feedback,45c928f1,2024-07-28,2024-07-29,Not Started,Jennifer Parker
+P015,Data Analytics Dashboard,Deployment,d7251bc1,2024-08-01,2024-08-07,Not Started,Jennifer Parker
+P016,Customer Portal Development,Quality Assurance,68fa85b3,2025-03-16,2025-03-22,Completed,Andrea Simmons MD
+P016,Customer Portal Development,Frontend Development,fc42fad5,2025-03-16,2025-03-21,Delayed,John Campbell
+P016,Customer Portal Development,Stakeholder Feedback,eb7cfb6d,2025-03-18,2025-03-20,In Progress,Andrea Simmons MD
+P016,Customer Portal Development,Go-Live,29d42267,2025-03-21,2025-03-26,Delayed,Elizabeth Lopez
+P016,Customer Portal Development,Documentation,3980c527,2025-03-23,2025-03-30,Completed,Angela Murphy
+P016,Customer Portal Development,Database Setup,462a681d,2025-03-26,2025-03-28,Not Started,Elizabeth Lopez
+P016,Customer Portal Development,Client Review,c4451376,2025-03-26,2025-03-29,Completed,Angela Murphy
+P016,Customer Portal Development,Accessibility Compliance,02498b38,2025-03-27,2025-04-02,Completed,Andrea Simmons MD
+P016,Customer Portal Development,Database Setup,1df152ea,2025-03-30,2025-04-03,In Progress,Elizabeth Lopez
+P016,Customer Portal Development,Database Setup,d3dc6ef3,2025-03-31,2025-04-07,Completed,Angela Murphy
+P016,Customer Portal Development,Frontend Development,4b0e9b17,2025-04-02,2025-04-07,Completed,John Campbell
+P016,Customer Portal Development,Post-Launch Support,6fb7d4df,2025-04-07,2025-04-12,Delayed,Shawna Thompson
+P016,Customer Portal Development,Accessibility Compliance,78fc0428,2025-04-09,2025-04-15,Not Started,Travis Hays
+P016,Customer Portal Development,User Testing,0efd0e19,2025-04-08,2025-04-15,Completed,Lori Cox
+P016,Customer Portal Development,Launch Preparation,2922fbcf,2025-04-10,2025-04-12,Completed,Angela Murphy
+P016,Customer Portal Development,Bug Fixing,f38d1190,2025-04-13,2025-04-16,In Progress,Elizabeth Lopez
+P016,Customer Portal Development,Post-Launch Support,0e93fcb4,2025-04-16,2025-04-19,Delayed,Travis Hays
+P016,Customer Portal Development,API Integration,64dad558,2025-04-16,2025-04-19,Completed,Jennifer Parker
+P016,Customer Portal Development,Frontend Development,9787ada8,2025-04-18,2025-04-23,In Progress,Lori Cox
+P016,Customer Portal Development,API Integration,bce8ebf0,2025-04-20,2025-04-25,In Progress,Jennifer Parker
+P016,Customer Portal Development,Post-Launch Support,ebae765c,2025-04-24,2025-05-01,Completed,Shawna Thompson
+P016,Customer Portal Development,Infrastructure Provisioning,85453f5c,2025-04-26,2025-05-02,Completed,Ashley Shields
+P016,Customer Portal Development,Documentation,edda5b74,2025-04-28,2025-05-05,In Progress,Elizabeth Lopez
+P016,Customer Portal Development,Client Review,cf21e6be,2025-04-29,2025-05-04,Completed,Travis Hays
+P016,Customer Portal Development,Integration Testing,3ab38816,2025-05-03,2025-05-07,Completed,Lori Cox
+P016,Customer Portal Development,User Testing,a079c86e,2025-05-02,2025-05-04,In Progress,Jennifer Parker
+P016,Customer Portal Development,Finalize Design,e7bd20c4,2025-05-05,2025-05-12,In Progress,Jennifer Parker
+P016,Customer Portal Development,Bug Fixing,7b3a850d,2025-05-06,2025-05-10,Delayed,Ashley Shields
+P016,Customer Portal Development,Accessibility Compliance,19b0fa52,2025-05-08,2025-05-15,In Progress,Elizabeth Lopez
+P016,Customer Portal Development,Post-Launch Support,ad8f78b8,2025-05-13,2025-05-16,Completed,Travis Hays
+P016,Customer Portal Development,Submit for Approval,f8e9ee44,2025-05-13,2025-05-20,Delayed,John Campbell
+P016,Customer Portal Development,Post-Launch Support,f0004836,2025-05-16,2025-05-18,Completed,Elizabeth Lopez
+P016,Customer Portal Development,Launch Preparation,48be82f1,2025-05-16,2025-05-18,In Progress,Lori Cox
+P016,Customer Portal Development,User Testing,599d562e,2025-05-19,2025-05-22,In Progress,Kelly Chase
+P016,Customer Portal Development,Deployment,0823e8c1,2025-05-21,2025-05-22,Delayed,Ashley Shields
+P017,Cross-Platform App,Develop Draft Design,4e511ff2,2024-11-03,2024-11-05,Completed,Elizabeth Lopez
+P017,Cross-Platform App,Code Review,10e01103,2024-11-04,2024-11-06,Completed,John Campbell
+P017,Cross-Platform App,Infrastructure Provisioning,b778765d,2024-11-08,2024-11-11,In Progress,Jennifer Parker
+P017,Cross-Platform App,Quality Assurance,6cb1e58f,2024-11-09,2024-11-14,Not Started,Ashley Shields
+P017,Cross-Platform App,Develop Draft Design,ae539850,2024-11-10,2024-11-15,In Progress,Kelly Chase
+P017,Cross-Platform App,Sprint Planning,4bca2f31,2024-11-14,2024-11-16,Not Started,Ashley Shields
+P017,Cross-Platform App,Integration Testing,b36c5b90,2024-11-15,2024-11-20,Delayed,Travis Hays
+P017,Cross-Platform App,Bug Fixing,3f2272ea,2024-11-17,2024-11-21,Not Started,Lori Cox
+P017,Cross-Platform App,Documentation,d5b5c004,2024-11-20,2024-11-24,Delayed,Kelly Chase
+P017,Cross-Platform App,Submit for Approval,c340a6f1,2024-11-21,2024-11-25,Not Started,Travis Hays
+P017,Cross-Platform App,Frontend Development,7d6ac618,2024-11-22,2024-11-26,Not Started,Jennifer Parker
+P017,Cross-Platform App,Develop Draft Design,04d15931,2024-11-25,2024-11-29,Completed,Shawna Thompson
+P017,Cross-Platform App,User Testing,f4689c17,2024-11-26,2024-11-27,Completed,Angela Murphy
+P017,Cross-Platform App,Deployment,e752834b,2024-11-28,2024-12-02,Completed,Angela Murphy
+P018,Payment Gateway Integration,Launch Preparation,006f2770,2025-01-03,2025-01-09,In Progress,Elizabeth Lopez
+P018,Payment Gateway Integration,UAT Sign-off,c922977f,2025-01-04,2025-01-10,Not Started,Ashley Shields
+P018,Payment Gateway Integration,Accessibility Compliance,8a0449c8,2025-01-09,2025-01-15,Not Started,Lori Cox
+P018,Payment Gateway Integration,Finalize Design,82f1e613,2025-01-11,2025-01-16,Completed,Lori Cox
+P018,Payment Gateway Integration,Infrastructure Provisioning,0a215062,2025-01-12,2025-01-17,Not Started,Ashley Shields
+P018,Payment Gateway Integration,Post-Launch Support,2576238d,2025-01-15,2025-01-22,Delayed,Kelly Chase
+P018,Payment Gateway Integration,Infrastructure Provisioning,ac3917cc,2025-01-16,2025-01-22,Delayed,Angela Murphy
+P018,Payment Gateway Integration,Accessibility Compliance,4bf663a8,2025-01-18,2025-01-23,Completed,Jennifer Parker
+P018,Payment Gateway Integration,Documentation,2e49e15a,2025-01-18,2025-01-25,Not Started,Andrea Simmons MD
+P018,Payment Gateway Integration,API Integration,6750c702,2025-01-20,2025-01-24,Delayed,Travis Hays
+P018,Payment Gateway Integration,Go-Live,9f4bf252,2025-01-25,2025-01-29,Delayed,Elizabeth Lopez
+P018,Payment Gateway Integration,Database Setup,dec7f049,2025-01-24,2025-01-26,Completed,Lori Cox
+P018,Payment Gateway Integration,Develop Draft Design,036e5d2e,2025-01-29,2025-02-02,In Progress,Shawna Thompson
+P018,Payment Gateway Integration,Sprint Planning,3320ee61,2025-01-31,2025-02-04,Not Started,John Campbell
+P018,Payment Gateway Integration,Sprint Planning,92b5a0d1,2025-02-02,2025-02-08,Delayed,Angela Murphy
+P018,Payment Gateway Integration,Database Setup,088f46e0,2025-02-02,2025-02-07,Not Started,Andrea Simmons MD
+P018,Payment Gateway Integration,Security Audit,e93cc334,2025-02-05,2025-02-09,Delayed,John Campbell
+P018,Payment Gateway Integration,Sprint Planning,dc23679a,2025-02-07,2025-02-14,Completed,Travis Hays
+P018,Payment Gateway Integration,User Testing,77e3d0bb,2025-02-07,2025-02-08,Not Started,Lori Cox
+P018,Payment Gateway Integration,Database Setup,c17f6f33,2025-02-11,2025-02-14,Not Started,Travis Hays
+P018,Payment Gateway Integration,UAT Sign-off,53c86cab,2025-02-14,2025-02-15,Delayed,Travis Hays
+P018,Payment Gateway Integration,Post-Launch Support,3a403b2f,2025-02-15,2025-02-19,Completed,Elizabeth Lopez
+P018,Payment Gateway Integration,Launch Preparation,1fb1c6fe,2025-02-16,2025-02-18,In Progress,Shawna Thompson
+P018,Payment Gateway Integration,Documentation,01391d13,2025-02-17,2025-02-23,Not Started,Shawna Thompson
+P018,Payment Gateway Integration,Quality Assurance,acf82d16,2025-02-19,2025-02-22,In Progress,Elizabeth Lopez
+P018,Payment Gateway Integration,Database Setup,7abfa092,2025-02-23,2025-02-24,Delayed,Andrea Simmons MD
+P018,Payment Gateway Integration,Quality Assurance,b18b3f3d,2025-02-26,2025-03-01,Not Started,Angela Murphy
+P018,Payment Gateway Integration,Finalize Design,a483694c,2025-02-25,2025-02-28,Delayed,John Campbell
+P018,Payment Gateway Integration,Accessibility Compliance,7ce912e6,2025-03-02,2025-03-05,Not Started,Angela Murphy
+P018,Payment Gateway Integration,Infrastructure Provisioning,c9eb06e1,2025-03-01,2025-03-07,In Progress,Travis Hays
+P018,Payment Gateway Integration,Finalize Design,f0cafb8e,2025-03-06,2025-03-11,Completed,Lori Cox
+P018,Payment Gateway Integration,Infrastructure Provisioning,6136b78d,2025-03-07,2025-03-10,Delayed,Kelly Chase
+P018,Payment Gateway Integration,Code Review,792237b7,2025-03-10,2025-03-16,Not Started,Jennifer Parker
+P018,Payment Gateway Integration,Performance Testing,5b1a86a2,2025-03-10,2025-03-13,Completed,Elizabeth Lopez
+P018,Payment Gateway Integration,Performance Testing,eb8dbabb,2025-03-13,2025-03-18,Delayed,Kelly Chase
+P018,Payment Gateway Integration,Integration Testing,8a33965e,2025-03-13,2025-03-19,Not Started,John Campbell
+P018,Payment Gateway Integration,Launch Preparation,58a15a90,2025-03-17,2025-03-20,Not Started,John Campbell
+P018,Payment Gateway Integration,API Integration,9a3f2d2b,2025-03-20,2025-03-24,In Progress,Travis Hays
+P018,Payment Gateway Integration,Go-Live,23b380d4,2025-03-19,2025-03-25,Completed,Jennifer Parker
+P018,Payment Gateway Integration,Sprint Planning,d3959f22,2025-03-23,2025-03-27,Completed,Kelly Chase
+P018,Payment Gateway Integration,Go-Live,fae94610,2025-03-26,2025-03-30,Completed,John Campbell
+P018,Payment Gateway Integration,Post-Launch Support,71ddb831,2025-03-28,2025-04-03,In Progress,Elizabeth Lopez
+P018,Payment Gateway Integration,Code Review,934a69ac,2025-03-28,2025-04-02,Delayed,Kelly Chase
+P018,Payment Gateway Integration,Client Review,da106341,2025-04-01,2025-04-04,Delayed,John Campbell
+P018,Payment Gateway Integration,Bug Fixing,1fd2076c,2025-03-31,2025-04-05,In Progress,Travis Hays
+P018,Payment Gateway Integration,Client Review,7e5bff59,2025-04-05,2025-04-07,In Progress,Lori Cox
+P018,Payment Gateway Integration,Code Review,2c8af583,2025-04-06,2025-04-13,Delayed,Andrea Simmons MD
+P018,Payment Gateway Integration,Deployment,931abf1f,2025-04-08,2025-04-15,Not Started,Kelly Chase
+P019,Search Engine Optimization,Backend Development,9b0b6d4b,2024-10-01,2024-10-06,Completed,Angela Murphy
+P019,Search Engine Optimization,Frontend Development,e0d001ab,2024-10-03,2024-10-05,Not Started,Travis Hays
+P019,Search Engine Optimization,Quality Assurance,14817b3d,2024-10-07,2024-10-14,Delayed,Kelly Chase
+P019,Search Engine Optimization,UAT Sign-off,0f25fcd1,2024-10-10,2024-10-12,In Progress,Ashley Shields
+P019,Search Engine Optimization,Finalize Design,72c9b6b3,2024-10-10,2024-10-12,Completed,Angela Murphy
+P019,Search Engine Optimization,Finalize Design,4914613e,2024-10-14,2024-10-17,Not Started,Angela Murphy
+P019,Search Engine Optimization,Client Review,bbd7816a,2024-10-15,2024-10-21,Not Started,Travis Hays
+P019,Search Engine Optimization,Develop Draft Design,794c43d3,2024-10-18,2024-10-22,In Progress,Shawna Thompson
+P019,Search Engine Optimization,Performance Testing,83b858f1,2024-10-18,2024-10-21,Delayed,Travis Hays
+P019,Search Engine Optimization,Frontend Development,fe9d47b8,2024-10-21,2024-10-22,Not Started,Elizabeth Lopez
+P019,Search Engine Optimization,Code Review,71b563ac,2024-10-22,2024-10-25,Delayed,Shawna Thompson
+P019,Search Engine Optimization,Post-Launch Support,52640c5a,2024-10-25,2024-11-01,Not Started,Jennifer Parker
+P019,Search Engine Optimization,Infrastructure Provisioning,62e66bdb,2024-10-26,2024-11-02,Delayed,Andrea Simmons MD
+P019,Search Engine Optimization,Documentation,44189318,2024-10-27,2024-10-31,Completed,Shawna Thompson
+P019,Search Engine Optimization,Finalize Design,8ac4955e,2024-10-29,2024-11-05,In Progress,Shawna Thompson
+P019,Search Engine Optimization,Backend Development,710e5723,2024-11-01,2024-11-08,In Progress,Angela Murphy
+P019,Search Engine Optimization,Develop Draft Design,cd82a2cb,2024-11-04,2024-11-11,Delayed,Elizabeth Lopez
+P019,Search Engine Optimization,Performance Testing,8d5cd1ef,2024-11-06,2024-11-13,Not Started,Angela Murphy
+P019,Search Engine Optimization,Backend Development,549d7430,2024-11-09,2024-11-15,Delayed,Travis Hays
+P019,Search Engine Optimization,Security Audit,216ae924,2024-11-11,2024-11-18,Not Started,Lori Cox
+P019,Search Engine Optimization,Sprint Planning,67ea91c7,2024-11-12,2024-11-17,Not Started,Travis Hays
+P019,Search Engine Optimization,Submit for Approval,b87243ec,2024-11-15,2024-11-20,Completed,Angela Murphy
+P019,Search Engine Optimization,Launch Preparation,0c391b53,2024-11-14,2024-11-21,Not Started,Lori Cox
+P019,Search Engine Optimization,Performance Testing,26016073,2024-11-19,2024-11-26,In Progress,Elizabeth Lopez
+P019,Search Engine Optimization,Submit for Approval,23d16431,2024-11-21,2024-11-23,Completed,Travis Hays
+P019,Search Engine Optimization,Documentation,00ebf2f1,2024-11-20,2024-11-21,In Progress,Kelly Chase
+P019,Search Engine Optimization,Frontend Development,9547e6d1,2024-11-23,2024-11-30,Delayed,Travis Hays
+P019,Search Engine Optimization,Frontend Development,053ee490,2024-11-27,2024-12-01,In Progress,Shawna Thompson
+P019,Search Engine Optimization,Submit for Approval,9a411b1b,2024-11-27,2024-12-03,Completed,Shawna Thompson
+P019,Search Engine Optimization,Go-Live,69c9821c,2024-11-29,2024-11-30,Delayed,Travis Hays
+P019,Search Engine Optimization,Documentation,4e48283c,2024-12-01,2024-12-05,Delayed,John Campbell
+P019,Search Engine Optimization,Sprint Planning,26fe2c6d,2024-12-03,2024-12-04,Not Started,Jennifer Parker
+P019,Search Engine Optimization,Documentation,8ce77726,2024-12-05,2024-12-06,Delayed,Kelly Chase
+P019,Search Engine Optimization,Database Setup,551fb469,2024-12-08,2024-12-14,In Progress,Elizabeth Lopez
+P019,Search Engine Optimization,API Integration,4ed0b8d8,2024-12-11,2024-12-16,Delayed,John Campbell
+P019,Search Engine Optimization,Deployment,96bc6f7c,2024-12-12,2024-12-14,Not Started,Travis Hays
+P020,CRM Integration,Go-Live,09beed4e,2025-01-02,2025-01-09,In Progress,Elizabeth Lopez
+P020,CRM Integration,User Testing,05ea15b4,2025-01-03,2025-01-06,In Progress,John Campbell
+P020,CRM Integration,UAT Sign-off,bea5dc70,2025-01-06,2025-01-08,Completed,John Campbell
+P020,CRM Integration,Infrastructure Provisioning,2c40e0e9,2025-01-08,2025-01-09,Not Started,Angela Murphy
+P020,CRM Integration,Documentation,3e38ddc3,2025-01-08,2025-01-15,Completed,Andrea Simmons MD
+P020,CRM Integration,Bug Fixing,37194787,2025-01-10,2025-01-16,Delayed,Andrea Simmons MD
+P020,CRM Integration,Sprint Planning,c8e768e4,2025-01-13,2025-01-14,Not Started,Jennifer Parker
+P020,CRM Integration,User Testing,191f646a,2025-01-13,2025-01-14,Completed,Kelly Chase
+P020,CRM Integration,UAT Sign-off,0375c894,2025-01-18,2025-01-21,Not Started,Elizabeth Lopez
+P020,CRM Integration,Quality Assurance,4ababeb7,2025-01-19,2025-01-24,Delayed,Shawna Thompson
+P020,CRM Integration,Accessibility Compliance,41981ebf,2025-01-22,2025-01-28,Completed,Lori Cox
+P020,CRM Integration,Performance Testing,f783bb35,2025-01-21,2025-01-26,In Progress,Shawna Thompson
+P020,CRM Integration,Frontend Development,d862d9e5,2025-01-24,2025-01-29,Delayed,Travis Hays
+P020,CRM Integration,Code Review,00e98b92,2025-01-28,2025-01-30,Not Started,Travis Hays
+P020,CRM Integration,Client Review,04dc8b81,2025-01-30,2025-02-01,Completed,Ashley Shields
+P020,CRM Integration,Accessibility Compliance,0d493237,2025-01-31,2025-02-01,In Progress,Angela Murphy
+P020,CRM Integration,Stakeholder Feedback,1803ec66,2025-02-02,2025-02-08,Completed,Andrea Simmons MD
+P020,CRM Integration,Post-Launch Support,188de481,2025-02-04,2025-02-07,Completed,Jennifer Parker
+P020,CRM Integration,Frontend Development,ccc553ae,2025-02-06,2025-02-10,In Progress,Travis Hays
+P020,CRM Integration,Deployment,fbe039c7,2025-02-09,2025-02-16,In Progress,Jennifer Parker
+P021,Product Refactoring,Performance Testing,36e87ef4,2024-09-12,2024-09-18,Delayed,Travis Hays
+P021,Product Refactoring,Submit for Approval,a3a48eab,2024-09-15,2024-09-17,Not Started,Shawna Thompson
+P021,Product Refactoring,Client Review,1af450ea,2024-09-18,2024-09-25,Not Started,Ashley Shields
+P021,Product Refactoring,Finalize Design,1006c90b,2024-09-21,2024-09-22,Delayed,Shawna Thompson
+P021,Product Refactoring,Develop Draft Design,3491c584,2024-09-21,2024-09-23,Delayed,Ashley Shields
+P021,Product Refactoring,Backend Development,1aa9d6a2,2024-09-22,2024-09-29,In Progress,Lori Cox
+P021,Product Refactoring,UAT Sign-off,9c5f2681,2024-09-27,2024-10-04,Delayed,Shawna Thompson
+P021,Product Refactoring,Infrastructure Provisioning,855db893,2024-09-27,2024-09-28,Completed,Angela Murphy
+P021,Product Refactoring,Post-Launch Support,c68a5f8a,2024-10-01,2024-10-07,Completed,John Campbell
+P021,Product Refactoring,Go-Live,0b31d673,2024-10-01,2024-10-04,Not Started,Travis Hays
+P021,Product Refactoring,Submit for Approval,cccab3fb,2024-10-03,2024-10-07,Delayed,Andrea Simmons MD
+P021,Product Refactoring,UAT Sign-off,bbba2c69,2024-10-07,2024-10-10,Delayed,Ashley Shields
+P021,Product Refactoring,Code Review,cbd4030e,2024-10-09,2024-10-16,Completed,John Campbell
+P021,Product Refactoring,Code Review,7031d942,2024-10-09,2024-10-13,Delayed,Ashley Shields
+P021,Product Refactoring,Accessibility Compliance,a479500e,2024-10-10,2024-10-15,Completed,Angela Murphy
+P021,Product Refactoring,Accessibility Compliance,9b049c21,2024-10-13,2024-10-19,In Progress,Angela Murphy
+P021,Product Refactoring,Client Review,337d3b2b,2024-10-14,2024-10-17,Delayed,Andrea Simmons MD
+P021,Product Refactoring,User Testing,be0fcc9e,2024-10-16,2024-10-23,Delayed,Shawna Thompson
+P021,Product Refactoring,Accessibility Compliance,b481c919,2024-10-19,2024-10-21,Completed,Kelly Chase
+P021,Product Refactoring,Quality Assurance,ee94275d,2024-10-23,2024-10-26,Not Started,Jennifer Parker
+P021,Product Refactoring,Quality Assurance,f36906a3,2024-10-22,2024-10-23,Not Started,Jennifer Parker
+P021,Product Refactoring,Code Review,9d40b7e8,2024-10-27,2024-10-31,Not Started,Angela Murphy
+P021,Product Refactoring,Backend Development,89f5018e,2024-10-28,2024-10-31,Completed,John Campbell
+P021,Product Refactoring,Documentation,34c1be74,2024-10-28,2024-11-04,Not Started,Ashley Shields
+P021,Product Refactoring,Integration Testing,374a5f5b,2024-11-02,2024-11-04,In Progress,Andrea Simmons MD
+P021,Product Refactoring,Integration Testing,7291aadb,2024-11-01,2024-11-02,Delayed,Shawna Thompson
+P021,Product Refactoring,Post-Launch Support,0b2d304f,2024-11-05,2024-11-10,Delayed,Angela Murphy
+P021,Product Refactoring,Security Audit,9df38100,2024-11-07,2024-11-10,In Progress,Kelly Chase
+P021,Product Refactoring,Integration Testing,d017268a,2024-11-08,2024-11-09,Completed,Ashley Shields
+P021,Product Refactoring,Infrastructure Provisioning,867f8658,2024-11-12,2024-11-17,Not Started,Elizabeth Lopez
+P021,Product Refactoring,Submit for Approval,8621f6ad,2024-11-14,2024-11-15,Not Started,Lori Cox
+P021,Product Refactoring,Performance Testing,f98fd557,2024-11-16,2024-11-20,Delayed,John Campbell
+P021,Product Refactoring,Sprint Planning,8959fdca,2024-11-18,2024-11-21,Completed,Andrea Simmons MD
+P021,Product Refactoring,Documentation,048c5a66,2024-11-19,2024-11-20,In Progress,Lori Cox
+P021,Product Refactoring,Develop Draft Design,62ba9cbb,2024-11-19,2024-11-21,Not Started,Elizabeth Lopez
+P021,Product Refactoring,UAT Sign-off,d5e9ed24,2024-11-22,2024-11-29,Not Started,Kelly Chase
+P021,Product Refactoring,UAT Sign-off,7a4956eb,2024-11-26,2024-12-02,In Progress,Kelly Chase
+P021,Product Refactoring,Database Setup,6a9c5dc1,2024-11-28,2024-12-05,In Progress,Ashley Shields
+P021,Product Refactoring,Integration Testing,733bd143,2024-11-29,2024-12-06,Delayed,Lori Cox
+P021,Product Refactoring,Go-Live,3e8d8995,2024-12-02,2024-12-06,Not Started,Ashley Shields
+P021,Product Refactoring,API Integration,463e6682,2024-12-02,2024-12-04,Delayed,Angela Murphy
+P021,Product Refactoring,Client Review,e58f8788,2024-12-06,2024-12-07,Delayed,John Campbell
+P021,Product Refactoring,User Testing,2e1f5402,2024-12-06,2024-12-08,Completed,John Campbell
+P021,Product Refactoring,API Integration,bf555c8a,2024-12-10,2024-12-11,Completed,Elizabeth Lopez
+P021,Product Refactoring,Sprint Planning,6ca56f56,2024-12-09,2024-12-15,Delayed,Andrea Simmons MD
+P021,Product Refactoring,Bug Fixing,6250ae3e,2024-12-14,2024-12-20,Completed,Elizabeth Lopez
+P021,Product Refactoring,Go-Live,a8226419,2024-12-16,2024-12-20,Delayed,Jennifer Parker
+P021,Product Refactoring,Integration Testing,3e8bfbfd,2024-12-18,2024-12-20,Not Started,Jennifer Parker
+P021,Product Refactoring,Develop Draft Design,09a8f564,2024-12-17,2024-12-21,Completed,Jennifer Parker
+P021,Product Refactoring,Deployment,8a2c46cb,2024-12-19,2024-12-22,Delayed,Angela Murphy
+P022,Codebase Modernization,Code Review,b3350115,2024-09-25,2024-09-29,Completed,Angela Murphy
+P022,Codebase Modernization,Go-Live,59115cf7,2024-09-25,2024-09-30,In Progress,Shawna Thompson
+P022,Codebase Modernization,UAT Sign-off,71da191f,2024-09-26,2024-10-02,Delayed,Lori Cox
+P022,Codebase Modernization,Develop Draft Design,1fba463d,2024-09-29,2024-10-01,In Progress,John Campbell
+P022,Codebase Modernization,Frontend Development,b4500cc2,2024-10-03,2024-10-04,Delayed,Angela Murphy
+P022,Codebase Modernization,Quality Assurance,ba73d17b,2024-10-04,2024-10-06,In Progress,Jennifer Parker
+P022,Codebase Modernization,Finalize Design,af60d0a7,2024-10-04,2024-10-05,Completed,Shawna Thompson
+P022,Codebase Modernization,Finalize Design,cb80e97e,2024-10-08,2024-10-14,In Progress,Lori Cox
+P022,Codebase Modernization,Documentation,569943f4,2024-10-08,2024-10-15,Not Started,Travis Hays
+P022,Codebase Modernization,Stakeholder Feedback,98458dab,2024-10-13,2024-10-14,In Progress,Ashley Shields
+P022,Codebase Modernization,Accessibility Compliance,0f1b4e45,2024-10-13,2024-10-17,Completed,Travis Hays
+P022,Codebase Modernization,Sprint Planning,7d1af6dd,2024-10-16,2024-10-23,Not Started,Jennifer Parker
+P022,Codebase Modernization,Client Review,46f46685,2024-10-18,2024-10-20,Not Started,Elizabeth Lopez
+P022,Codebase Modernization,Frontend Development,010a35b4,2024-10-21,2024-10-28,Delayed,Ashley Shields
+P022,Codebase Modernization,Deployment,0f7eba3d,2024-10-20,2024-10-27,Not Started,Jennifer Parker
+P023,Accessibility Improvements,Code Review,db493ef7,2024-10-17,2024-10-24,In Progress,Angela Murphy
+P023,Accessibility Improvements,Quality Assurance,c2ffc168,2024-10-22,2024-10-29,Not Started,Kelly Chase
+P023,Accessibility Improvements,User Testing,a074b74c,2024-10-24,2024-10-27,Completed,Jennifer Parker
+P023,Accessibility Improvements,Finalize Design,82ec9c9a,2024-10-24,2024-10-25,Completed,Travis Hays
+P023,Accessibility Improvements,Database Setup,eadb374d,2024-10-28,2024-10-31,In Progress,Lori Cox
+P023,Accessibility Improvements,Launch Preparation,bc3b9597,2024-10-30,2024-11-06,In Progress,Lori Cox
+P023,Accessibility Improvements,UAT Sign-off,bd30c2e5,2024-11-01,2024-11-05,Delayed,Angela Murphy
+P023,Accessibility Improvements,Performance Testing,9af4aca1,2024-11-02,2024-11-03,Delayed,Lori Cox
+P023,Accessibility Improvements,Code Review,7326a08e,2024-11-02,2024-11-08,Not Started,Ashley Shields
+P023,Accessibility Improvements,Accessibility Compliance,fabacfab,2024-11-06,2024-11-09,Delayed,Lori Cox
+P023,Accessibility Improvements,Client Review,be8d03bc,2024-11-09,2024-11-10,Delayed,Elizabeth Lopez
+P023,Accessibility Improvements,Database Setup,6c1f2e31,2024-11-09,2024-11-14,Not Started,Jennifer Parker
+P024,Version Upgrade,Infrastructure Provisioning,d42683ef,2024-07-29,2024-07-31,Not Started,Jennifer Parker
+P024,Version Upgrade,Documentation,10e40114,2024-07-31,2024-08-05,Completed,Lori Cox
+P024,Version Upgrade,UAT Sign-off,3e2c730a,2024-07-31,2024-08-01,Completed,Kelly Chase
+P024,Version Upgrade,Accessibility Compliance,0bce9623,2024-08-04,2024-08-10,Delayed,Jennifer Parker
+P024,Version Upgrade,Launch Preparation,05c1e8a0,2024-08-04,2024-08-10,Not Started,Travis Hays
+P024,Version Upgrade,Frontend Development,0ffbaee7,2024-08-08,2024-08-14,Completed,Ashley Shields
+P024,Version Upgrade,API Integration,92b8fb03,2024-08-08,2024-08-15,Not Started,Angela Murphy
+P024,Version Upgrade,Documentation,667d119c,2024-08-12,2024-08-17,Not Started,Angela Murphy
+P024,Version Upgrade,Stakeholder Feedback,15ba2a44,2024-08-14,2024-08-16,In Progress,Travis Hays
+P024,Version Upgrade,Client Review,b4c13cc0,2024-08-16,2024-08-19,In Progress,Andrea Simmons MD
+P024,Version Upgrade,Infrastructure Provisioning,417703b0,2024-08-17,2024-08-18,Completed,Jennifer Parker
+P024,Version Upgrade,Sprint Planning,ec133e3d,2024-08-19,2024-08-26,Completed,Angela Murphy
+P024,Version Upgrade,Documentation,1b7a35d1,2024-08-20,2024-08-22,Delayed,Andrea Simmons MD
+P024,Version Upgrade,Stakeholder Feedback,7e9d19a5,2024-08-22,2024-08-23,Not Started,Andrea Simmons MD
+P024,Version Upgrade,Stakeholder Feedback,fecea262,2024-08-25,2024-08-29,In Progress,Angela Murphy
+P024,Version Upgrade,Bug Fixing,6a9423dc,2024-08-26,2024-08-29,Delayed,John Campbell
+P024,Version Upgrade,API Integration,2d9fc4ec,2024-08-31,2024-09-07,Completed,John Campbell
+P024,Version Upgrade,Sprint Planning,af8c783f,2024-09-02,2024-09-08,Delayed,Angela Murphy
+P024,Version Upgrade,Performance Testing,f3eb6362,2024-09-04,2024-09-10,Delayed,Lori Cox
+P024,Version Upgrade,Documentation,8f30ba86,2024-09-04,2024-09-09,In Progress,Angela Murphy
+P024,Version Upgrade,User Testing,b9309fb5,2024-09-08,2024-09-10,Not Started,Kelly Chase
+P024,Version Upgrade,Security Audit,acedd0fc,2024-09-10,2024-09-14,Not Started,Lori Cox
+P024,Version Upgrade,Database Setup,9941458e,2024-09-11,2024-09-12,Delayed,Ashley Shields
+P024,Version Upgrade,UAT Sign-off,300c6538,2024-09-11,2024-09-14,Completed,Elizabeth Lopez
+P024,Version Upgrade,Accessibility Compliance,cef17626,2024-09-14,2024-09-15,Completed,Shawna Thompson
+P024,Version Upgrade,Security Audit,ecc76750,2024-09-17,2024-09-20,Completed,Angela Murphy
+P024,Version Upgrade,Deployment,3bdec4a2,2024-09-17,2024-09-24,In Progress,Lori Cox
+P025,Product Launch Support,Infrastructure Provisioning,4540dc38,2024-08-24,2024-08-31,Delayed,Jennifer Parker
+P025,Product Launch Support,Go-Live,7aca0123,2024-08-25,2024-08-26,In Progress,Elizabeth Lopez
+P025,Product Launch Support,Frontend Development,c6b7beab,2024-08-29,2024-09-05,In Progress,Kelly Chase
+P025,Product Launch Support,Frontend Development,cb8d1035,2024-09-01,2024-09-02,Completed,Andrea Simmons MD
+P025,Product Launch Support,Quality Assurance,c8f4eac8,2024-08-31,2024-09-04,Not Started,Travis Hays
+P025,Product Launch Support,Launch Preparation,a95f52a2,2024-09-05,2024-09-07,Delayed,Elizabeth Lopez
+P025,Product Launch Support,Develop Draft Design,8a5a4183,2024-09-06,2024-09-10,Completed,Ashley Shields
+P025,Product Launch Support,Security Audit,11db03a4,2024-09-06,2024-09-07,In Progress,Shawna Thompson
+P025,Product Launch Support,Submit for Approval,fbb852b4,2024-09-09,2024-09-11,Completed,Ashley Shields
+P025,Product Launch Support,Submit for Approval,d91faee5,2024-09-11,2024-09-14,Delayed,Lori Cox
+P025,Product Launch Support,Code Review,c1160804,2024-09-12,2024-09-17,Completed,Lori Cox
+P025,Product Launch Support,Frontend Development,eb0e9bc3,2024-09-14,2024-09-20,Not Started,Shawna Thompson
+P025,Product Launch Support,Bug Fixing,3a8a0e51,2024-09-19,2024-09-20,Completed,Lori Cox
+P025,Product Launch Support,Database Setup,55453857,2024-09-21,2024-09-24,Completed,Andrea Simmons MD
+P025,Product Launch Support,API Integration,830bac62,2024-09-20,2024-09-21,In Progress,Kelly Chase
+P025,Product Launch Support,API Integration,e3486927,2024-09-23,2024-09-27,Delayed,Ashley Shields
+P025,Product Launch Support,Client Review,7fe3899e,2024-09-26,2024-09-27,Completed,Angela Murphy
+P025,Product Launch Support,Client Review,9d90b3f6,2024-09-29,2024-09-30,Delayed,Elizabeth Lopez
+P025,Product Launch Support,Stakeholder Feedback,5a6a041c,2024-10-01,2024-10-07,In Progress,Elizabeth Lopez
+P025,Product Launch Support,Performance Testing,2c2c6472,2024-10-02,2024-10-07,Not Started,Kelly Chase
+P025,Product Launch Support,Sprint Planning,644ed9f4,2024-10-03,2024-10-06,Delayed,Angela Murphy
+P025,Product Launch Support,Client Review,f13ebeca,2024-10-04,2024-10-11,In Progress,Lori Cox
+P025,Product Launch Support,Launch Preparation,c758299a,2024-10-08,2024-10-13,In Progress,Kelly Chase
+P025,Product Launch Support,User Testing,2b1fa6a3,2024-10-11,2024-10-16,Delayed,Elizabeth Lopez
+P025,Product Launch Support,Stakeholder Feedback,141fb51d,2024-10-10,2024-10-17,Delayed,John Campbell
+P025,Product Launch Support,Stakeholder Feedback,1c5c2fde,2024-10-14,2024-10-20,In Progress,Elizabeth Lopez
+P025,Product Launch Support,Database Setup,a94b88d0,2024-10-14,2024-10-18,Completed,John Campbell
+P025,Product Launch Support,Documentation,4f118bf9,2024-10-18,2024-10-25,Delayed,Travis Hays
+P025,Product Launch Support,Submit for Approval,61b2e641,2024-10-19,2024-10-24,Completed,Elizabeth Lopez
+P025,Product Launch Support,Sprint Planning,44de697b,2024-10-21,2024-10-27,Not Started,Shawna Thompson
+P025,Product Launch Support,Bug Fixing,3ccd18c9,2024-10-22,2024-10-26,Not Started,Lori Cox
+P025,Product Launch Support,Backend Development,14cc9a74,2024-10-26,2024-10-30,In Progress,John Campbell
+P025,Product Launch Support,User Testing,9623d3c2,2024-10-28,2024-11-03,Completed,Shawna Thompson
+P025,Product Launch Support,Quality Assurance,f863d24f,2024-10-31,2024-11-03,In Progress,Travis Hays
+P025,Product Launch Support,Develop Draft Design,25ada8d5,2024-11-01,2024-11-03,Delayed,John Campbell
+P025,Product Launch Support,Stakeholder Feedback,89cc73cc,2024-11-03,2024-11-04,In Progress,Elizabeth Lopez
+P025,Product Launch Support,Performance Testing,f8aa7b4b,2024-11-06,2024-11-07,Not Started,Lori Cox
+P025,Product Launch Support,Frontend Development,b95a546a,2024-11-08,2024-11-13,Delayed,Andrea Simmons MD
+P025,Product Launch Support,Sprint Planning,cfb26ceb,2024-11-07,2024-11-14,Not Started,Jennifer Parker
+P025,Product Launch Support,Sprint Planning,8fc8aef7,2024-11-09,2024-11-16,Delayed,Ashley Shields
+P025,Product Launch Support,User Testing,10765143,2024-11-13,2024-11-20,Delayed,John Campbell
+P025,Product Launch Support,Go-Live,3b854b49,2024-11-15,2024-11-19,In Progress,Elizabeth Lopez
+P025,Product Launch Support,Security Audit,d006aed2,2024-11-15,2024-11-19,Completed,Kelly Chase
+P025,Product Launch Support,Launch Preparation,407434cd,2024-11-20,2024-11-21,In Progress,Elizabeth Lopez
+P025,Product Launch Support,Go-Live,fe9c8f4f,2024-11-21,2024-11-27,Completed,Kelly Chase
+P025,Product Launch Support,Deployment,6ef54e39,2024-11-21,2024-11-28,Completed,Kelly Chase
