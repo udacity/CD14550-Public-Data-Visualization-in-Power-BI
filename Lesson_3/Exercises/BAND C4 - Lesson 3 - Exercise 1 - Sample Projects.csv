@@ -1,0 +1,1163 @@
+Project ID,Project Name,Task Name,Task ID,Start Date,Finish Date,Status,Owner
+P001,Website Redesign,Bug Fixing,252c9345,1/7/2025,1/9/2025,In Progress,John Campbell
+P001,Website Redesign,Client Review,19a2d123,1/7/2025,1/14/2025,Not Started,Shawna Thompson
+P001,Website Redesign,Code Review,eb8c7173,1/9/2025,1/14/2025,Delayed,Andrea Simmons MD
+P001,Website Redesign,Frontend Development,d004bd0e,1/11/2025,1/13/2025,In Progress,Angela Murphy
+P001,Website Redesign,Develop Draft Design,aa627573,1/12/2025,1/14/2025,Delayed,Angela Murphy
+P001,Website Redesign,Sprint Planning,9d8dcf81,1/15/2025,1/22/2025,Completed,Angela Murphy
+P001,Website Redesign,Database Setup,16e26d24,1/18/2025,1/21/2025,Not Started,Andrea Simmons MD
+P001,Website Redesign,User Testing,a6161950,1/18/2025,1/24/2025,In Progress,Elizabeth Lopez
+P001,Website Redesign,Database Setup,d6bdf1ce,1/21/2025,1/28/2025,Completed,Angela Murphy
+P001,Website Redesign,Accessibility Compliance,60617896,1/22/2025,1/26/2025,Completed,Shawna Thompson
+P001,Website Redesign,Quality Assurance,8907d24b,1/26/2025,1/29/2025,Completed,Travis Hays
+P001,Website Redesign,Backend Development,4d7c5a68,1/26/2025,1/30/2025,Not Started,Travis Hays
+P001,Website Redesign,Backend Development,da584e35,1/29/2025,2/3/2025,In Progress,Shawna Thompson
+P001,Website Redesign,Go-Live,0d2e6e42,2/1/2025,2/4/2025,Delayed,Angela Murphy
+P001,Website Redesign,Quality Assurance,60bbccea,2/1/2025,2/5/2025,Completed,Angela Murphy
+P001,Website Redesign,Infrastructure Provisioning,9ab51503,2/4/2025,2/11/2025,In Progress,Travis Hays
+P001,Website Redesign,Infrastructure Provisioning,b5771c86,2/8/2025,2/14/2025,Delayed,Ashley Shields
+P001,Website Redesign,Launch Preparation,facf3f04,2/7/2025,2/9/2025,Completed,Kelly Chase
+P001,Website Redesign,Database Setup,9a98a1cd,2/11/2025,2/14/2025,Completed,Shawna Thompson
+P001,Website Redesign,Infrastructure Provisioning,d825affd,2/14/2025,2/17/2025,Delayed,Travis Hays
+P001,Website Redesign,Deployment,71de6954,2/16/2025,2/20/2025,In Progress,Lori Cox
+P002,Mobile App Development,Client Review,687a8cf6,3/13/2025,3/14/2025,Completed,John Campbell
+P002,Mobile App Development,Finalize Design,c62654fc,3/16/2025,3/17/2025,Delayed,Shawna Thompson
+P002,Mobile App Development,Backend Development,26fd48ae,3/18/2025,3/20/2025,Completed,Angela Murphy
+P002,Mobile App Development,Launch Preparation,528aef41,3/20/2025,3/22/2025,In Progress,Elizabeth Lopez
+P002,Mobile App Development,Launch Preparation,79327a5e,3/21/2025,3/27/2025,Completed,Travis Hays
+P002,Mobile App Development,Finalize Design,5a19bf56,3/26/2025,3/30/2025,Completed,Jennifer Parker
+P002,Mobile App Development,Database Setup,ed9ad1e4,3/28/2025,3/30/2025,In Progress,John Campbell
+P002,Mobile App Development,User Testing,bc81f1da,3/30/2025,4/5/2025,Delayed,Jennifer Parker
+P002,Mobile App Development,Go-Live,446b3e1b,3/31/2025,4/3/2025,Delayed,Jennifer Parker
+P002,Mobile App Development,Bug Fixing,4dc76f9f,4/1/2025,4/8/2025,Not Started,Angela Murphy
+P002,Mobile App Development,Submit for Approval,df14f261,4/4/2025,4/7/2025,Delayed,Shawna Thompson
+P003,Backend API Development,Frontend Development,546d1a7b,1/30/2025,2/5/2025,Delayed,Andrea Simmons MD
+P003,Backend API Development,Develop Draft Design,4d9c51b8,2/1/2025,2/4/2025,Not Started,Andrea Simmons MD
+P003,Backend API Development,API Integration,85abde2c,2/3/2025,2/8/2025,Completed,Shawna Thompson
+P003,Backend API Development,Accessibility Compliance,5198688e,2/6/2025,2/10/2025,In Progress,Ashley Shields
+P003,Backend API Development,Bug Fixing,b5217e59,2/7/2025,2/9/2025,Completed,Ashley Shields
+P003,Backend API Development,Develop Draft Design,223b4d16,2/11/2025,2/16/2025,Delayed,Shawna Thompson
+P003,Backend API Development,Go-Live,f19c0018,2/13/2025,2/15/2025,Completed,Elizabeth Lopez
+P003,Backend API Development,Go-Live,91b82184,2/13/2025,2/14/2025,Not Started,Lori Cox
+P003,Backend API Development,Bug Fixing,6fd2a106,2/14/2025,2/17/2025,Completed,Lori Cox
+P003,Backend API Development,Develop Draft Design,c6acefbf,2/19/2025,2/25/2025,Not Started,Kelly Chase
+P003,Backend API Development,Infrastructure Provisioning,6ff8ad10,2/18/2025,2/20/2025,Not Started,Angela Murphy
+P003,Backend API Development,Frontend Development,527ecebc,2/21/2025,2/24/2025,Delayed,Shawna Thompson
+P003,Backend API Development,Finalize Design,6f379ae1,2/25/2025,2/28/2025,Delayed,Elizabeth Lopez
+P003,Backend API Development,Develop Draft Design,76c50e4d,2/26/2025,2/27/2025,In Progress,Elizabeth Lopez
+P003,Backend API Development,Database Setup,48af253e,2/28/2025,3/7/2025,Delayed,Ashley Shields
+P003,Backend API Development,Infrastructure Provisioning,e2552364,3/3/2025,3/5/2025,In Progress,Shawna Thompson
+P003,Backend API Development,Integration Testing,1db2fa85,3/5/2025,3/12/2025,Not Started,Ashley Shields
+P003,Backend API Development,Database Setup,d5103e3f,3/5/2025,3/9/2025,Delayed,Kelly Chase
+P003,Backend API Development,Deployment,6e2133df,3/6/2025,3/8/2025,Delayed,Ashley Shields
+P004,Cloud Infrastructure Setup,Sprint Planning,c7b4a89e,3/8/2025,3/15/2025,Delayed,Kelly Chase
+P004,Cloud Infrastructure Setup,Finalize Design,8eb0267e,3/8/2025,3/14/2025,Delayed,Travis Hays
+P004,Cloud Infrastructure Setup,Database Setup,3a4f5e4b,3/11/2025,3/14/2025,Not Started,Angela Murphy
+P004,Cloud Infrastructure Setup,Post-Launch Support,c1186998,3/15/2025,3/20/2025,Completed,Jennifer Parker
+P004,Cloud Infrastructure Setup,Go-Live,ca635764,3/17/2025,3/19/2025,In Progress,Jennifer Parker
+P004,Cloud Infrastructure Setup,Client Review,29a710cf,3/18/2025,3/21/2025,Delayed,Shawna Thompson
+P004,Cloud Infrastructure Setup,Launch Preparation,5caa689e,3/19/2025,3/20/2025,In Progress,Angela Murphy
+P004,Cloud Infrastructure Setup,Launch Preparation,c5657fa2,3/22/2025,3/29/2025,Completed,Jennifer Parker
+P004,Cloud Infrastructure Setup,Security Audit,a48dddfb,3/24/2025,3/28/2025,Not Started,Jennifer Parker
+P004,Cloud Infrastructure Setup,Client Review,1c2a8b5a,3/27/2025,4/2/2025,In Progress,Elizabeth Lopez
+P004,Cloud Infrastructure Setup,Code Review,bfba5926,3/28/2025,4/4/2025,In Progress,Travis Hays
+P004,Cloud Infrastructure Setup,Frontend Development,e14f1a94,3/28/2025,4/3/2025,Delayed,Kelly Chase
+P004,Cloud Infrastructure Setup,Database Setup,5b458dbe,4/2/2025,4/9/2025,In Progress,John Campbell
+P004,Cloud Infrastructure Setup,Submit for Approval,5cfbef32,4/3/2025,4/6/2025,Delayed,Travis Hays
+P004,Cloud Infrastructure Setup,Sprint Planning,7b1ba67c,4/3/2025,4/4/2025,Not Started,Elizabeth Lopez
+P004,Cloud Infrastructure Setup,Post-Launch Support,a821b161,4/6/2025,4/8/2025,Not Started,Kelly Chase
+P004,Cloud Infrastructure Setup,Finalize Design,32c3c23c,4/7/2025,4/11/2025,In Progress,Ashley Shields
+P004,Cloud Infrastructure Setup,Infrastructure Provisioning,5bd809db,4/9/2025,4/14/2025,Delayed,Angela Murphy
+P004,Cloud Infrastructure Setup,Develop Draft Design,c0162b0c,4/13/2025,4/14/2025,Completed,Kelly Chase
+P004,Cloud Infrastructure Setup,Performance Testing,42ea29fc,4/13/2025,4/14/2025,In Progress,Angela Murphy
+P004,Cloud Infrastructure Setup,Integration Testing,73108192,4/15/2025,4/19/2025,Not Started,Travis Hays
+P004,Cloud Infrastructure Setup,Database Setup,ec25fd45,4/20/2025,4/27/2025,Completed,Elizabeth Lopez
+P004,Cloud Infrastructure Setup,Backend Development,bed825ae,4/21/2025,4/26/2025,Not Started,Ashley Shields
+P004,Cloud Infrastructure Setup,Post-Launch Support,a93d9cf4,4/23/2025,4/24/2025,In Progress,Jennifer Parker
+P004,Cloud Infrastructure Setup,Integration Testing,3d9b2fdb,4/23/2025,4/24/2025,In Progress,Jennifer Parker
+P004,Cloud Infrastructure Setup,UAT Sign-off,1e4e51bc,4/28/2025,4/30/2025,In Progress,Jennifer Parker
+P004,Cloud Infrastructure Setup,UAT Sign-off,57ffd4e5,4/28/2025,5/3/2025,In Progress,Jennifer Parker
+P004,Cloud Infrastructure Setup,Client Review,7bad7e99,5/2/2025,5/8/2025,Not Started,John Campbell
+P004,Cloud Infrastructure Setup,Performance Testing,4ca89721,5/3/2025,5/9/2025,Delayed,Andrea Simmons MD
+P004,Cloud Infrastructure Setup,Backend Development,67500b8a,5/3/2025,5/5/2025,In Progress,Jennifer Parker
+P004,Cloud Infrastructure Setup,Code Review,2760e12c,5/8/2025,5/13/2025,Completed,Lori Cox
+P004,Cloud Infrastructure Setup,UAT Sign-off,8a57b00b,5/10/2025,5/13/2025,Completed,Jennifer Parker
+P004,Cloud Infrastructure Setup,Post-Launch Support,25a66739,5/11/2025,5/18/2025,Completed,Andrea Simmons MD
+P004,Cloud Infrastructure Setup,Launch Preparation,d6781ce4,5/14/2025,5/21/2025,Completed,John Campbell
+P004,Cloud Infrastructure Setup,Submit for Approval,a72e5f7c,5/14/2025,5/19/2025,In Progress,Andrea Simmons MD
+P004,Cloud Infrastructure Setup,Client Review,4fcaae61,5/17/2025,5/20/2025,Delayed,Angela Murphy
+P004,Cloud Infrastructure Setup,Security Audit,0235ca1f,5/20/2025,5/21/2025,Not Started,Shawna Thompson
+P004,Cloud Infrastructure Setup,User Testing,ac8d0d5e,5/19/2025,5/24/2025,In Progress,Shawna Thompson
+P004,Cloud Infrastructure Setup,Code Review,c6bbf405,5/21/2025,5/24/2025,In Progress,Kelly Chase
+P004,Cloud Infrastructure Setup,Frontend Development,42560010,5/25/2025,5/26/2025,Completed,Jennifer Parker
+P004,Cloud Infrastructure Setup,Security Audit,b9264ddb,5/26/2025,5/27/2025,Not Started,Angela Murphy
+P004,Cloud Infrastructure Setup,Deployment,19b60d83,5/29/2025,5/31/2025,In Progress,Shawna Thompson
+P005,Security Enhancements,Documentation,51e4583d,2/6/2025,2/9/2025,In Progress,Travis Hays
+P005,Security Enhancements,Backend Development,8b61cac4,2/9/2025,2/11/2025,Not Started,Andrea Simmons MD
+P005,Security Enhancements,Backend Development,c3ca37f6,2/13/2025,2/20/2025,Not Started,Kelly Chase
+P005,Security Enhancements,Frontend Development,81e33879,2/15/2025,2/18/2025,Delayed,Lori Cox
+P005,Security Enhancements,Integration Testing,76ce17e2,2/15/2025,2/18/2025,Not Started,Angela Murphy
+P005,Security Enhancements,Integration Testing,bec1e26a,2/16/2025,2/21/2025,Delayed,Shawna Thompson
+P005,Security Enhancements,Finalize Design,c2a4d442,2/18/2025,2/22/2025,Delayed,Lori Cox
+P005,Security Enhancements,Submit for Approval,4fd1f612,2/21/2025,2/25/2025,In Progress,Angela Murphy
+P005,Security Enhancements,Code Review,49690428,2/25/2025,3/3/2025,In Progress,Jennifer Parker
+P005,Security Enhancements,Code Review,4331974a,2/25/2025,2/27/2025,Not Started,Shawna Thompson
+P005,Security Enhancements,Documentation,78c79ad6,3/1/2025,3/4/2025,Not Started,Ashley Shields
+P005,Security Enhancements,UAT Sign-off,bbb6239a,3/3/2025,3/7/2025,Completed,Travis Hays
+P005,Security Enhancements,API Integration,6a2b0d07,3/3/2025,3/6/2025,Completed,John Campbell
+P005,Security Enhancements,User Testing,0581dade,3/4/2025,3/11/2025,Completed,Lori Cox
+P005,Security Enhancements,Sprint Planning,fa19d711,3/8/2025,3/13/2025,Delayed,John Campbell
+P005,Security Enhancements,Develop Draft Design,7696f9cb,3/9/2025,3/13/2025,Not Started,Kelly Chase
+P005,Security Enhancements,API Integration,71cb04bf,3/11/2025,3/17/2025,Completed,Lori Cox
+P005,Security Enhancements,Database Setup,5bde4b85,3/12/2025,3/13/2025,Not Started,Kelly Chase
+P005,Security Enhancements,Performance Testing,772c5a3a,3/15/2025,3/22/2025,Completed,Elizabeth Lopez
+P005,Security Enhancements,Go-Live,ac2751c7,3/18/2025,3/24/2025,Not Started,Shawna Thompson
+P005,Security Enhancements,Accessibility Compliance,622c2126,3/21/2025,3/25/2025,Not Started,Travis Hays
+P005,Security Enhancements,Infrastructure Provisioning,182688c5,3/21/2025,3/27/2025,In Progress,Kelly Chase
+P005,Security Enhancements,Go-Live,02ec92bb,3/24/2025,3/29/2025,Delayed,John Campbell
+P005,Security Enhancements,Client Review,49d95a8e,3/25/2025,3/31/2025,Not Started,Andrea Simmons MD
+P005,Security Enhancements,Performance Testing,7276cad3,3/26/2025,3/29/2025,In Progress,Elizabeth Lopez
+P005,Security Enhancements,Launch Preparation,494bc896,3/30/2025,4/1/2025,Completed,Elizabeth Lopez
+P005,Security Enhancements,Accessibility Compliance,621d6b29,4/2/2025,4/8/2025,Not Started,Ashley Shields
+P005,Security Enhancements,Go-Live,31043f14,4/4/2025,4/10/2025,Completed,Travis Hays
+P005,Security Enhancements,Stakeholder Feedback,593e3938,4/3/2025,4/4/2025,Completed,Andrea Simmons MD
+P005,Security Enhancements,Stakeholder Feedback,078e2dfd,4/6/2025,4/10/2025,Not Started,Travis Hays
+P005,Security Enhancements,Submit for Approval,5b1af65b,4/10/2025,4/17/2025,Not Started,Lori Cox
+P005,Security Enhancements,Deployment,47fe967c,4/10/2025,4/15/2025,Delayed,Jennifer Parker
+P006,UI/UX Improvements,Develop Draft Design,e88c9318,5/15/2024,5/22/2024,Not Started,Shawna Thompson
+P006,UI/UX Improvements,Go-Live,48599786,5/18/2024,5/25/2024,Not Started,Jennifer Parker
+P006,UI/UX Improvements,Frontend Development,35f3c296,5/19/2024,5/21/2024,In Progress,Travis Hays
+P006,UI/UX Improvements,Code Review,4ea49e50,5/22/2024,5/28/2024,In Progress,Ashley Shields
+P006,UI/UX Improvements,Launch Preparation,cd485534,5/24/2024,5/29/2024,In Progress,Andrea Simmons MD
+P006,UI/UX Improvements,Develop Draft Design,a8dfd6dd,5/24/2024,5/29/2024,In Progress,Andrea Simmons MD
+P006,UI/UX Improvements,UAT Sign-off,a36cab4c,5/27/2024,6/1/2024,Completed,Angela Murphy
+P006,UI/UX Improvements,Frontend Development,3d4908da,5/28/2024,5/30/2024,In Progress,John Campbell
+P006,UI/UX Improvements,Post-Launch Support,93eee2c1,5/30/2024,6/6/2024,In Progress,Shawna Thompson
+P006,UI/UX Improvements,Post-Launch Support,429cc94a,6/1/2024,6/5/2024,In Progress,John Campbell
+P006,UI/UX Improvements,Deployment,8b4cdcac,6/3/2024,6/6/2024,Not Started,Jennifer Parker
+P007,Feature Expansion,Go-Live,9e271882,6/23/2024,6/30/2024,Delayed,Travis Hays
+P007,Feature Expansion,User Testing,bfe3f8cf,6/25/2024,6/27/2024,Delayed,Andrea Simmons MD
+P007,Feature Expansion,Frontend Development,624e1115,6/24/2024,6/29/2024,Delayed,Travis Hays
+P007,Feature Expansion,Accessibility Compliance,395b8ea1,6/29/2024,7/4/2024,Not Started,Jennifer Parker
+P007,Feature Expansion,Launch Preparation,50819144,6/28/2024,7/2/2024,Delayed,Elizabeth Lopez
+P007,Feature Expansion,Performance Testing,69d7dc54,7/1/2024,7/6/2024,Delayed,Elizabeth Lopez
+P007,Feature Expansion,Documentation,6e725935,7/5/2024,7/10/2024,Not Started,Kelly Chase
+P007,Feature Expansion,Infrastructure Provisioning,0133f5e6,7/6/2024,7/10/2024,Delayed,Shawna Thompson
+P007,Feature Expansion,Infrastructure Provisioning,3647d5cc,7/8/2024,7/12/2024,In Progress,Andrea Simmons MD
+P007,Feature Expansion,Bug Fixing,3950fde1,7/10/2024,7/15/2024,Not Started,Jennifer Parker
+P007,Feature Expansion,Go-Live,fb6c8cf0,7/11/2024,7/15/2024,Delayed,Ashley Shields
+P007,Feature Expansion,Documentation,0366954f,7/12/2024,7/14/2024,In Progress,Andrea Simmons MD
+P007,Feature Expansion,Go-Live,7b964ee6,7/17/2024,7/20/2024,Delayed,Elizabeth Lopez
+P007,Feature Expansion,Backend Development,2f30921f,7/17/2024,7/21/2024,In Progress,Angela Murphy
+P007,Feature Expansion,Performance Testing,d115ddd9,7/18/2024,7/21/2024,Completed,Lori Cox
+P007,Feature Expansion,User Testing,c7678a2c,7/20/2024,7/21/2024,Not Started,Angela Murphy
+P007,Feature Expansion,Quality Assurance,b48a2033,7/24/2024,7/25/2024,Delayed,Jennifer Parker
+P007,Feature Expansion,Performance Testing,c39ee63e,7/25/2024,7/29/2024,Delayed,Elizabeth Lopez
+P007,Feature Expansion,Stakeholder Feedback,49df8d33,7/27/2024,7/30/2024,In Progress,Lori Cox
+P007,Feature Expansion,Backend Development,d5903c0c,7/29/2024,7/31/2024,Not Started,Andrea Simmons MD
+P007,Feature Expansion,Integration Testing,f9379728,8/1/2024,8/4/2024,Delayed,Shawna Thompson
+P007,Feature Expansion,Finalize Design,326415d3,8/2/2024,8/3/2024,In Progress,Kelly Chase
+P007,Feature Expansion,Finalize Design,2d50e715,8/3/2024,8/8/2024,Completed,Elizabeth Lopez
+P007,Feature Expansion,UAT Sign-off,937c72a0,8/8/2024,8/12/2024,Delayed,Jennifer Parker
+P007,Feature Expansion,UAT Sign-off,b1e5af09,8/7/2024,8/12/2024,Delayed,Kelly Chase
+P007,Feature Expansion,Bug Fixing,cce3ca6e,8/10/2024,8/15/2024,Delayed,Angela Murphy
+P007,Feature Expansion,Code Review,71e0b7d4,8/14/2024,8/18/2024,Not Started,John Campbell
+P007,Feature Expansion,Stakeholder Feedback,adc6d38e,8/13/2024,8/15/2024,Completed,John Campbell
+P007,Feature Expansion,UAT Sign-off,f737a8d5,8/16/2024,8/17/2024,In Progress,Lori Cox
+P007,Feature Expansion,Database Setup,2966ad5b,8/17/2024,8/23/2024,Completed,Elizabeth Lopez
+P007,Feature Expansion,Accessibility Compliance,6f127bc2,8/20/2024,8/27/2024,Not Started,John Campbell
+P007,Feature Expansion,Code Review,fd6291ca,8/23/2024,8/26/2024,Not Started,Elizabeth Lopez
+P007,Feature Expansion,Client Review,37e20e7d,8/23/2024,8/27/2024,In Progress,Lori Cox
+P007,Feature Expansion,Quality Assurance,db41fc7b,8/27/2024,9/1/2024,In Progress,Angela Murphy
+P007,Feature Expansion,Develop Draft Design,74491ce4,8/29/2024,8/30/2024,Not Started,Shawna Thompson
+P007,Feature Expansion,Performance Testing,0480635b,8/31/2024,9/3/2024,Delayed,Ashley Shields
+P007,Feature Expansion,Develop Draft Design,7622871f,9/3/2024,9/10/2024,Not Started,Shawna Thompson
+P007,Feature Expansion,Backend Development,4617a058,9/5/2024,9/7/2024,Not Started,Shawna Thompson
+P007,Feature Expansion,Infrastructure Provisioning,fea18dad,9/6/2024,9/11/2024,Delayed,Jennifer Parker
+P007,Feature Expansion,Launch Preparation,1faba4da,9/7/2024,9/13/2024,In Progress,John Campbell
+P007,Feature Expansion,Post-Launch Support,05d6f4ca,9/8/2024,9/9/2024,Not Started,Angela Murphy
+P007,Feature Expansion,Launch Preparation,adaaac41,9/12/2024,9/16/2024,Completed,Shawna Thompson
+P007,Feature Expansion,Submit for Approval,48cc418c,9/14/2024,9/16/2024,Delayed,Jennifer Parker
+P007,Feature Expansion,Deployment,0bc56a73,9/17/2024,9/21/2024,In Progress,John Campbell
+P008,Database Migration,UAT Sign-off,476adf52,9/2/2024,9/9/2024,In Progress,Kelly Chase
+P008,Database Migration,Post-Launch Support,dbd704fe,9/6/2024,9/13/2024,Completed,Angela Murphy
+P008,Database Migration,Develop Draft Design,fcf92c49,9/9/2024,9/16/2024,Not Started,Lori Cox
+P008,Database Migration,Develop Draft Design,fcdca90c,9/11/2024,9/13/2024,Delayed,Jennifer Parker
+P008,Database Migration,Stakeholder Feedback,66e04294,9/12/2024,9/16/2024,Delayed,Elizabeth Lopez
+P008,Database Migration,User Testing,45ff5962,9/14/2024,9/19/2024,Completed,Jennifer Parker
+P008,Database Migration,Accessibility Compliance,09483208,9/14/2024,9/16/2024,Completed,Travis Hays
+P008,Database Migration,Performance Testing,8ae1f3f4,9/16/2024,9/18/2024,Completed,Elizabeth Lopez
+P008,Database Migration,Post-Launch Support,4036c940,9/20/2024,9/24/2024,In Progress,John Campbell
+P008,Database Migration,Infrastructure Provisioning,515eb532,9/23/2024,9/25/2024,Not Started,Shawna Thompson
+P008,Database Migration,Integration Testing,0e01db85,9/24/2024,9/30/2024,Not Started,Shawna Thompson
+P008,Database Migration,Stakeholder Feedback,01accd7f,9/27/2024,9/28/2024,Delayed,Kelly Chase
+P008,Database Migration,Develop Draft Design,a25d7f0e,9/28/2024,10/2/2024,Completed,Kelly Chase
+P008,Database Migration,Finalize Design,bae904d0,9/30/2024,10/2/2024,Not Started,Travis Hays
+P008,Database Migration,Frontend Development,eac3ce94,9/30/2024,10/7/2024,In Progress,Ashley Shields
+P008,Database Migration,Performance Testing,60e2a38c,10/5/2024,10/10/2024,Not Started,Angela Murphy
+P008,Database Migration,Frontend Development,5392ed6c,10/5/2024,10/7/2024,Completed,Angela Murphy
+P008,Database Migration,Code Review,9d31ff15,10/8/2024,10/15/2024,Completed,Lori Cox
+P008,Database Migration,Develop Draft Design,fcd15a8c,10/8/2024,10/15/2024,In Progress,Kelly Chase
+P008,Database Migration,UAT Sign-off,6aaf65aa,10/10/2024,10/14/2024,Delayed,Jennifer Parker
+P008,Database Migration,Launch Preparation,912ce3b9,10/12/2024,10/13/2024,Completed,Elizabeth Lopez
+P008,Database Migration,Deployment,a9a6d65c,10/14/2024,10/17/2024,Delayed,Elizabeth Lopez
+P009,Performance Optimization,Security Audit,0eef18ef,5/27/2024,5/29/2024,Completed,Jennifer Parker
+P009,Performance Optimization,Sprint Planning,9556ad13,5/31/2024,6/3/2024,In Progress,Shawna Thompson
+P009,Performance Optimization,Frontend Development,44a42bf1,6/1/2024,6/3/2024,Not Started,Shawna Thompson
+P009,Performance Optimization,Integration Testing,2129cbea,6/4/2024,6/9/2024,Delayed,Elizabeth Lopez
+P009,Performance Optimization,Frontend Development,5836371e,6/5/2024,6/6/2024,Delayed,Elizabeth Lopez
+P009,Performance Optimization,Documentation,67f13dd6,6/6/2024,6/10/2024,Not Started,Ashley Shields
+P009,Performance Optimization,Quality Assurance,a5e4c07b,6/11/2024,6/15/2024,In Progress,John Campbell
+P009,Performance Optimization,Backend Development,b9aa529f,6/13/2024,6/18/2024,Completed,Shawna Thompson
+P009,Performance Optimization,Frontend Development,b1022170,6/14/2024,6/21/2024,In Progress,Jennifer Parker
+P009,Performance Optimization,Bug Fixing,a321eadd,6/14/2024,6/21/2024,Delayed,John Campbell
+P009,Performance Optimization,User Testing,a75ba317,6/17/2024,6/18/2024,Delayed,Ashley Shields
+P009,Performance Optimization,Client Review,56c2d3f8,6/21/2024,6/24/2024,Delayed,Angela Murphy
+P009,Performance Optimization,Backend Development,af7dc106,6/21/2024,6/23/2024,In Progress,John Campbell
+P009,Performance Optimization,Develop Draft Design,9d7ab0eb,6/24/2024,6/27/2024,Delayed,Lori Cox
+P009,Performance Optimization,Stakeholder Feedback,c2c9834c,6/26/2024,7/3/2024,Completed,Angela Murphy
+P009,Performance Optimization,Deployment,d9cef7df,6/29/2024,6/30/2024,Not Started,Angela Murphy
+P010,Bug Fixing Sprint,Bug Fixing,12f50fe0,11/17/2024,11/21/2024,Not Started,Travis Hays
+P010,Bug Fixing Sprint,Quality Assurance,b3e02bcc,11/17/2024,11/24/2024,Delayed,Andrea Simmons MD
+P010,Bug Fixing Sprint,Performance Testing,8c29f9f5,11/20/2024,11/25/2024,In Progress,Lori Cox
+P010,Bug Fixing Sprint,Stakeholder Feedback,7bf5af65,11/20/2024,11/26/2024,Delayed,Ashley Shields
+P010,Bug Fixing Sprint,Client Review,9ad3bf79,11/25/2024,11/28/2024,Not Started,Angela Murphy
+P010,Bug Fixing Sprint,User Testing,053e8b46,11/25/2024,11/28/2024,Delayed,Ashley Shields
+P010,Bug Fixing Sprint,API Integration,9a43c371,11/26/2024,12/2/2024,Delayed,Travis Hays
+P010,Bug Fixing Sprint,Performance Testing,4540a2a9,12/1/2024,12/7/2024,Not Started,Ashley Shields
+P010,Bug Fixing Sprint,Sprint Planning,2f9a36ad,12/1/2024,12/8/2024,In Progress,John Campbell
+P010,Bug Fixing Sprint,Performance Testing,ecf9632d,12/2/2024,12/9/2024,In Progress,Lori Cox
+P010,Bug Fixing Sprint,Security Audit,9a812eb6,12/7/2024,12/12/2024,Completed,Andrea Simmons MD
+P010,Bug Fixing Sprint,Infrastructure Provisioning,bda0861a,12/9/2024,12/11/2024,In Progress,Travis Hays
+P010,Bug Fixing Sprint,Infrastructure Provisioning,0f2ae01e,12/10/2024,12/15/2024,Completed,Andrea Simmons MD
+P010,Bug Fixing Sprint,Stakeholder Feedback,29755711,12/12/2024,12/13/2024,Not Started,John Campbell
+P010,Bug Fixing Sprint,Security Audit,670c3d5c,12/15/2024,12/22/2024,In Progress,Shawna Thompson
+P010,Bug Fixing Sprint,Deployment,5d0eecdc,12/14/2024,12/17/2024,Not Started,Elizabeth Lopez
+P011,E-Commerce Platform,API Integration,443f93fa,2/21/2025,2/26/2025,Completed,Elizabeth Lopez
+P011,E-Commerce Platform,Accessibility Compliance,d080f1e0,2/20/2025,2/25/2025,Delayed,Travis Hays
+P011,E-Commerce Platform,Accessibility Compliance,ad2ee5bf,2/22/2025,2/27/2025,Delayed,Ashley Shields
+P011,E-Commerce Platform,Finalize Design,53e7b4c7,2/25/2025,3/3/2025,Completed,Angela Murphy
+P011,E-Commerce Platform,UAT Sign-off,5d15414d,2/26/2025,3/3/2025,Not Started,Kelly Chase
+P011,E-Commerce Platform,Database Setup,554dd064,3/3/2025,3/9/2025,Not Started,Jennifer Parker
+P011,E-Commerce Platform,Frontend Development,2e184f45,3/4/2025,3/9/2025,Not Started,Travis Hays
+P011,E-Commerce Platform,Database Setup,277c2f59,3/4/2025,3/8/2025,Delayed,Jennifer Parker
+P011,E-Commerce Platform,Database Setup,999fa8e2,3/9/2025,3/14/2025,Completed,Andrea Simmons MD
+P011,E-Commerce Platform,Security Audit,f3b705f9,3/10/2025,3/17/2025,Completed,Shawna Thompson
+P011,E-Commerce Platform,Sprint Planning,4544601a,3/11/2025,3/12/2025,Completed,John Campbell
+P011,E-Commerce Platform,Bug Fixing,035b116c,3/14/2025,3/15/2025,Delayed,John Campbell
+P011,E-Commerce Platform,Quality Assurance,cebab511,3/15/2025,3/20/2025,Not Started,Shawna Thompson
+P011,E-Commerce Platform,Database Setup,053d5e62,3/16/2025,3/19/2025,Delayed,Ashley Shields
+P011,E-Commerce Platform,Go-Live,f020ddf3,3/19/2025,3/24/2025,Not Started,Shawna Thompson
+P011,E-Commerce Platform,API Integration,0fc00b4a,3/22/2025,3/24/2025,Completed,Shawna Thompson
+P011,E-Commerce Platform,Client Review,af0bab86,3/24/2025,3/25/2025,Not Started,John Campbell
+P011,E-Commerce Platform,Post-Launch Support,f4a36c44,3/25/2025,3/30/2025,In Progress,Angela Murphy
+P011,E-Commerce Platform,Sprint Planning,4c06ab63,3/28/2025,4/4/2025,In Progress,Shawna Thompson
+P011,E-Commerce Platform,Client Review,552fbd06,3/29/2025,4/2/2025,In Progress,Jennifer Parker
+P011,E-Commerce Platform,Submit for Approval,08345522,3/30/2025,4/2/2025,Not Started,Lori Cox
+P011,E-Commerce Platform,Develop Draft Design,75ca7f0c,4/2/2025,4/9/2025,Delayed,Andrea Simmons MD
+P011,E-Commerce Platform,Launch Preparation,63d75604,4/6/2025,4/8/2025,Delayed,Lori Cox
+P011,E-Commerce Platform,Code Review,56676c4c,4/6/2025,4/11/2025,Completed,Elizabeth Lopez
+P011,E-Commerce Platform,Infrastructure Provisioning,2e71b784,4/9/2025,4/16/2025,Not Started,Elizabeth Lopez
+P011,E-Commerce Platform,Post-Launch Support,705cab83,4/10/2025,4/14/2025,Delayed,Angela Murphy
+P011,E-Commerce Platform,User Testing,6762be44,4/13/2025,4/17/2025,In Progress,Andrea Simmons MD
+P011,E-Commerce Platform,Sprint Planning,c19eb800,4/16/2025,4/20/2025,Completed,Lori Cox
+P011,E-Commerce Platform,Infrastructure Provisioning,d34e4645,4/18/2025,4/19/2025,Completed,Angela Murphy
+P011,E-Commerce Platform,Bug Fixing,65fa6395,4/20/2025,4/26/2025,Completed,Jennifer Parker
+P011,E-Commerce Platform,Performance Testing,83767a5e,4/19/2025,4/20/2025,Completed,Andrea Simmons MD
+P011,E-Commerce Platform,Stakeholder Feedback,876210d3,4/23/2025,4/26/2025,Completed,Shawna Thompson
+P011,E-Commerce Platform,Infrastructure Provisioning,3cdf4fd9,4/23/2025,4/26/2025,Delayed,Angela Murphy
+P011,E-Commerce Platform,Quality Assurance,193e8f13,4/26/2025,5/2/2025,In Progress,Jennifer Parker
+P011,E-Commerce Platform,Code Review,7ecf75b5,4/29/2025,5/5/2025,In Progress,Travis Hays
+P011,E-Commerce Platform,Security Audit,67bc9cdf,4/29/2025,5/5/2025,Not Started,Ashley Shields
+P011,E-Commerce Platform,Bug Fixing,727796e1,5/1/2025,5/5/2025,Not Started,Jennifer Parker
+P011,E-Commerce Platform,Quality Assurance,acdc5924,5/3/2025,5/9/2025,Delayed,Travis Hays
+P011,E-Commerce Platform,Stakeholder Feedback,a428ed3b,5/6/2025,5/12/2025,Completed,Shawna Thompson
+P011,E-Commerce Platform,Integration Testing,584a0bdf,5/8/2025,5/9/2025,Not Started,John Campbell
+P011,E-Commerce Platform,Accessibility Compliance,5cbd00dd,5/9/2025,5/10/2025,In Progress,John Campbell
+P011,E-Commerce Platform,Finalize Design,eaea4cb1,5/11/2025,5/17/2025,Not Started,Ashley Shields
+P011,E-Commerce Platform,Code Review,5bbcf024,5/14/2025,5/18/2025,In Progress,Ashley Shields
+P011,E-Commerce Platform,Deployment,d6fd9df6,5/16/2025,5/19/2025,Completed,Angela Murphy
+P012,DevOps Pipeline Setup,Stakeholder Feedback,d9446299,10/19/2024,10/21/2024,Delayed,Ashley Shields
+P012,DevOps Pipeline Setup,Go-Live,25bb607e,10/22/2024,10/24/2024,Delayed,Lori Cox
+P012,DevOps Pipeline Setup,Backend Development,bac47435,10/24/2024,10/25/2024,In Progress,Jennifer Parker
+P012,DevOps Pipeline Setup,Infrastructure Provisioning,87ed1165,10/26/2024,10/28/2024,Not Started,Angela Murphy
+P012,DevOps Pipeline Setup,Documentation,0d7bd485,10/27/2024,10/28/2024,Not Started,Ashley Shields
+P012,DevOps Pipeline Setup,Performance Testing,fcfe1825,10/27/2024,11/1/2024,Completed,Angela Murphy
+P012,DevOps Pipeline Setup,Quality Assurance,66824eeb,10/29/2024,11/2/2024,In Progress,Elizabeth Lopez
+P012,DevOps Pipeline Setup,Submit for Approval,95f7acfc,10/31/2024,11/6/2024,Delayed,Shawna Thompson
+P012,DevOps Pipeline Setup,Performance Testing,48373075,11/3/2024,11/9/2024,Completed,Andrea Simmons MD
+P012,DevOps Pipeline Setup,Database Setup,6fef243b,11/4/2024,11/9/2024,Delayed,Angela Murphy
+P012,DevOps Pipeline Setup,Submit for Approval,e009714e,11/9/2024,11/13/2024,Not Started,Jennifer Parker
+P012,DevOps Pipeline Setup,Go-Live,903f7aba,11/9/2024,11/10/2024,Delayed,Angela Murphy
+P012,DevOps Pipeline Setup,Deployment,19adffa0,11/10/2024,11/15/2024,Completed,Travis Hays
+P013,AI Integration,Infrastructure Provisioning,8084e28e,8/8/2024,8/9/2024,Not Started,Travis Hays
+P013,AI Integration,Stakeholder Feedback,0f0cf438,8/7/2024,8/10/2024,Not Started,Andrea Simmons MD
+P013,AI Integration,Go-Live,9f5e6de2,8/9/2024,8/11/2024,Delayed,Jennifer Parker
+P013,AI Integration,User Testing,6251da13,8/12/2024,8/18/2024,In Progress,Ashley Shields
+P013,AI Integration,Security Audit,9440863d,8/13/2024,8/19/2024,In Progress,Angela Murphy
+P013,AI Integration,Post-Launch Support,ce0030b1,8/15/2024,8/19/2024,Not Started,Kelly Chase
+P013,AI Integration,User Testing,4bfb8147,8/18/2024,8/19/2024,In Progress,Elizabeth Lopez
+P013,AI Integration,Bug Fixing,a6d7550d,8/21/2024,8/28/2024,Not Started,Angela Murphy
+P013,AI Integration,Performance Testing,b135b898,8/22/2024,8/29/2024,Not Started,Ashley Shields
+P013,AI Integration,Sprint Planning,a63eae8c,8/23/2024,8/27/2024,In Progress,Ashley Shields
+P013,AI Integration,Quality Assurance,ab9c82e6,8/26/2024,8/30/2024,Completed,Andrea Simmons MD
+P013,AI Integration,Develop Draft Design,91803e57,8/29/2024,8/30/2024,In Progress,Travis Hays
+P013,AI Integration,Database Setup,39b8c301,8/30/2024,9/6/2024,Not Started,John Campbell
+P013,AI Integration,Quality Assurance,1c11c06c,9/1/2024,9/4/2024,Not Started,Ashley Shields
+P013,AI Integration,UAT Sign-off,ef26fd2b,9/4/2024,9/6/2024,Delayed,Lori Cox
+P013,AI Integration,Documentation,3e4114b8,9/6/2024,9/11/2024,In Progress,Angela Murphy
+P013,AI Integration,Stakeholder Feedback,bd9bc5ef,9/7/2024,9/12/2024,Not Started,Lori Cox
+P013,AI Integration,User Testing,af02d651,9/8/2024,9/15/2024,Delayed,Lori Cox
+P013,AI Integration,Stakeholder Feedback,ef0bc00b,9/10/2024,9/14/2024,Not Started,Elizabeth Lopez
+P013,AI Integration,Launch Preparation,51e191e0,9/12/2024,9/14/2024,Not Started,John Campbell
+P013,AI Integration,Client Review,8a2d98c5,9/16/2024,9/20/2024,Delayed,Lori Cox
+P013,AI Integration,Quality Assurance,18f885da,9/17/2024,9/19/2024,Completed,Jennifer Parker
+P013,AI Integration,UAT Sign-off,269674cc,9/21/2024,9/25/2024,In Progress,Lori Cox
+P013,AI Integration,Integration Testing,509dce0f,9/20/2024,9/25/2024,In Progress,Angela Murphy
+P013,AI Integration,Code Review,be7f57c1,9/22/2024,9/28/2024,Completed,Travis Hays
+P013,AI Integration,Submit for Approval,9d8b9cf1,9/27/2024,9/28/2024,In Progress,Kelly Chase
+P013,AI Integration,Security Audit,49c91d2c,9/26/2024,10/1/2024,Not Started,John Campbell
+P013,AI Integration,Frontend Development,10d4fdca,9/30/2024,10/7/2024,In Progress,Angela Murphy
+P013,AI Integration,Deployment,0f8dc8fb,10/1/2024,10/4/2024,Not Started,Kelly Chase
+P014,Chatbot Development,Performance Testing,12b43f10,6/19/2024,6/23/2024,Not Started,Ashley Shields
+P014,Chatbot Development,UAT Sign-off,a2769667,6/22/2024,6/28/2024,Delayed,John Campbell
+P014,Chatbot Development,Post-Launch Support,c651d21f,6/25/2024,6/29/2024,In Progress,Travis Hays
+P014,Chatbot Development,Bug Fixing,027305ac,6/26/2024,7/3/2024,Not Started,Travis Hays
+P014,Chatbot Development,Quality Assurance,8685519c,6/28/2024,6/29/2024,In Progress,Andrea Simmons MD
+P014,Chatbot Development,Sprint Planning,9175a09c,6/30/2024,7/4/2024,In Progress,Ashley Shields
+P014,Chatbot Development,Submit for Approval,044e1a63,7/4/2024,7/9/2024,Delayed,Elizabeth Lopez
+P014,Chatbot Development,Sprint Planning,6e7644f7,7/6/2024,7/8/2024,In Progress,John Campbell
+P014,Chatbot Development,Frontend Development,779ac987,7/8/2024,7/10/2024,Delayed,Travis Hays
+P014,Chatbot Development,Infrastructure Provisioning,1c45eafd,7/8/2024,7/12/2024,In Progress,Travis Hays
+P014,Chatbot Development,API Integration,985e29b9,7/11/2024,7/13/2024,Completed,Lori Cox
+P014,Chatbot Development,Launch Preparation,dd3087f4,7/11/2024,7/17/2024,Not Started,Shawna Thompson
+P014,Chatbot Development,Submit for Approval,1f25ddbf,7/14/2024,7/15/2024,Delayed,Angela Murphy
+P014,Chatbot Development,Launch Preparation,67894674,7/18/2024,7/20/2024,Completed,Kelly Chase
+P014,Chatbot Development,Go-Live,caedb8af,7/19/2024,7/24/2024,In Progress,John Campbell
+P014,Chatbot Development,Quality Assurance,ac7559e8,7/20/2024,7/25/2024,In Progress,Ashley Shields
+P014,Chatbot Development,Deployment,a537fe6d,7/24/2024,7/31/2024,Delayed,Kelly Chase
+P015,Data Analytics Dashboard,Bug Fixing,ac242c2e,5/1/2024,5/7/2024,Completed,Jennifer Parker
+P015,Data Analytics Dashboard,Bug Fixing,afad647d,4/30/2024,5/3/2024,Delayed,Shawna Thompson
+P015,Data Analytics Dashboard,Develop Draft Design,e2efc0d9,5/3/2024,5/10/2024,Not Started,John Campbell
+P015,Data Analytics Dashboard,Infrastructure Provisioning,e7d37c11,5/6/2024,5/12/2024,Not Started,Jennifer Parker
+P015,Data Analytics Dashboard,Accessibility Compliance,de6702e8,5/8/2024,5/9/2024,Not Started,Andrea Simmons MD
+P015,Data Analytics Dashboard,Backend Development,cb8c9e4f,5/10/2024,5/14/2024,Not Started,Travis Hays
+P015,Data Analytics Dashboard,Infrastructure Provisioning,ff851b3f,5/12/2024,5/14/2024,Not Started,Jennifer Parker
+P015,Data Analytics Dashboard,Finalize Design,24300daf,5/13/2024,5/15/2024,Completed,Kelly Chase
+P015,Data Analytics Dashboard,Go-Live,1af3df6f,5/14/2024,5/20/2024,Delayed,John Campbell
+P015,Data Analytics Dashboard,Go-Live,c4c9cf9e,5/17/2024,5/24/2024,In Progress,Travis Hays
+P015,Data Analytics Dashboard,Documentation,35fe7215,5/20/2024,5/23/2024,Delayed,Shawna Thompson
+P015,Data Analytics Dashboard,Documentation,ecb7814a,5/20/2024,5/21/2024,Completed,Travis Hays
+P015,Data Analytics Dashboard,Infrastructure Provisioning,883df0ca,5/25/2024,5/29/2024,Not Started,Angela Murphy
+P015,Data Analytics Dashboard,Submit for Approval,08ab7d9c,5/26/2024,5/30/2024,Completed,Ashley Shields
+P015,Data Analytics Dashboard,Post-Launch Support,eb084cb7,5/27/2024,5/31/2024,Not Started,Ashley Shields
+P015,Data Analytics Dashboard,Launch Preparation,1a78ccdb,5/31/2024,6/2/2024,Completed,Ashley Shields
+P015,Data Analytics Dashboard,Code Review,c6371472,5/30/2024,6/1/2024,Completed,Ashley Shields
+P015,Data Analytics Dashboard,Infrastructure Provisioning,06188e8a,6/2/2024,6/6/2024,In Progress,Kelly Chase
+P015,Data Analytics Dashboard,Database Setup,ada44da0,6/3/2024,6/6/2024,Delayed,Jennifer Parker
+P015,Data Analytics Dashboard,API Integration,fa1cdbd6,6/6/2024,6/10/2024,Completed,Andrea Simmons MD
+P015,Data Analytics Dashboard,UAT Sign-off,16d4bfe3,6/10/2024,6/16/2024,Not Started,Shawna Thompson
+P015,Data Analytics Dashboard,User Testing,df25e838,6/10/2024,6/11/2024,Not Started,Kelly Chase
+P015,Data Analytics Dashboard,Code Review,6c1f1976,6/13/2024,6/17/2024,Completed,Travis Hays
+P015,Data Analytics Dashboard,User Testing,b6d91eaa,6/16/2024,6/21/2024,Delayed,Angela Murphy
+P015,Data Analytics Dashboard,Launch Preparation,424275ce,6/17/2024,6/22/2024,In Progress,Shawna Thompson
+P015,Data Analytics Dashboard,UAT Sign-off,4043c67b,6/18/2024,6/25/2024,Completed,Kelly Chase
+P015,Data Analytics Dashboard,Infrastructure Provisioning,2df49387,6/22/2024,6/25/2024,Completed,Elizabeth Lopez
+P015,Data Analytics Dashboard,Finalize Design,c99db264,6/22/2024,6/25/2024,Completed,Angela Murphy
+P015,Data Analytics Dashboard,Finalize Design,f3e58b1f,6/24/2024,6/29/2024,In Progress,Jennifer Parker
+P015,Data Analytics Dashboard,Post-Launch Support,845e0569,6/27/2024,6/29/2024,In Progress,Lori Cox
+P015,Data Analytics Dashboard,Develop Draft Design,a4d6c871,6/28/2024,6/30/2024,Not Started,Elizabeth Lopez
+P015,Data Analytics Dashboard,Sprint Planning,269be930,7/1/2024,7/6/2024,In Progress,Angela Murphy
+P015,Data Analytics Dashboard,Quality Assurance,fbc9123d,7/3/2024,7/6/2024,In Progress,Kelly Chase
+P015,Data Analytics Dashboard,Bug Fixing,7207e45b,7/3/2024,7/9/2024,Completed,Travis Hays
+P015,Data Analytics Dashboard,Integration Testing,71c0de99,7/6/2024,7/9/2024,Delayed,Jennifer Parker
+P015,Data Analytics Dashboard,Integration Testing,9e215dd3,7/8/2024,7/13/2024,Completed,Ashley Shields
+P015,Data Analytics Dashboard,Post-Launch Support,c4c22b0b,7/9/2024,7/13/2024,Delayed,Lori Cox
+P015,Data Analytics Dashboard,Bug Fixing,f7cb7fee,7/14/2024,7/17/2024,In Progress,Elizabeth Lopez
+P015,Data Analytics Dashboard,Client Review,e2168e69,7/15/2024,7/21/2024,Completed,Angela Murphy
+P015,Data Analytics Dashboard,UAT Sign-off,6a2f560c,7/17/2024,7/24/2024,In Progress,John Campbell
+P015,Data Analytics Dashboard,Quality Assurance,8198d69f,7/20/2024,7/23/2024,Not Started,Angela Murphy
+P015,Data Analytics Dashboard,Accessibility Compliance,4dc30623,7/19/2024,7/21/2024,Not Started,Shawna Thompson
+P015,Data Analytics Dashboard,Stakeholder Feedback,7ada5387,7/21/2024,7/25/2024,In Progress,Angela Murphy
+P015,Data Analytics Dashboard,UAT Sign-off,686b063d,7/25/2024,7/26/2024,Completed,Elizabeth Lopez
+P015,Data Analytics Dashboard,Develop Draft Design,05ca7f08,7/26/2024,7/31/2024,In Progress,Shawna Thompson
+P015,Data Analytics Dashboard,Stakeholder Feedback,45c928f1,7/28/2024,7/29/2024,Not Started,Jennifer Parker
+P015,Data Analytics Dashboard,Deployment,d7251bc1,8/1/2024,8/7/2024,Not Started,Jennifer Parker
+P016,Customer Portal Development,Quality Assurance,68fa85b3,3/16/2025,3/22/2025,Completed,Andrea Simmons MD
+P016,Customer Portal Development,Frontend Development,fc42fad5,3/16/2025,3/21/2025,Delayed,John Campbell
+P016,Customer Portal Development,Stakeholder Feedback,eb7cfb6d,3/18/2025,3/20/2025,In Progress,Andrea Simmons MD
+P016,Customer Portal Development,Go-Live,29d42267,3/21/2025,3/26/2025,Delayed,Elizabeth Lopez
+P016,Customer Portal Development,Documentation,3980c527,3/23/2025,3/30/2025,Completed,Angela Murphy
+P016,Customer Portal Development,Database Setup,462a681d,3/26/2025,3/28/2025,Not Started,Elizabeth Lopez
+P016,Customer Portal Development,Client Review,c4451376,3/26/2025,3/29/2025,Completed,Angela Murphy
+P016,Customer Portal Development,Accessibility Compliance,02498b38,3/27/2025,4/2/2025,Completed,Andrea Simmons MD
+P016,Customer Portal Development,Database Setup,1df152ea,3/30/2025,4/3/2025,In Progress,Elizabeth Lopez
+P016,Customer Portal Development,Database Setup,d3dc6ef3,3/31/2025,4/7/2025,Completed,Angela Murphy
+P016,Customer Portal Development,Frontend Development,4b0e9b17,4/2/2025,4/7/2025,Completed,John Campbell
+P016,Customer Portal Development,Post-Launch Support,6fb7d4df,4/7/2025,4/12/2025,Delayed,Shawna Thompson
+P016,Customer Portal Development,Accessibility Compliance,78fc0428,4/9/2025,4/15/2025,Not Started,Travis Hays
+P016,Customer Portal Development,User Testing,0efd0e19,4/8/2025,4/15/2025,Completed,Lori Cox
+P016,Customer Portal Development,Launch Preparation,2922fbcf,4/10/2025,4/12/2025,Completed,Angela Murphy
+P016,Customer Portal Development,Bug Fixing,f38d1190,4/13/2025,4/16/2025,In Progress,Elizabeth Lopez
+P016,Customer Portal Development,Post-Launch Support,0e93fcb4,4/16/2025,4/19/2025,Delayed,Travis Hays
+P016,Customer Portal Development,API Integration,64dad558,4/16/2025,4/19/2025,Completed,Jennifer Parker
+P016,Customer Portal Development,Frontend Development,9787ada8,4/18/2025,4/23/2025,In Progress,Lori Cox
+P016,Customer Portal Development,API Integration,bce8ebf0,4/20/2025,4/25/2025,In Progress,Jennifer Parker
+P016,Customer Portal Development,Post-Launch Support,ebae765c,4/24/2025,5/1/2025,Completed,Shawna Thompson
+P016,Customer Portal Development,Infrastructure Provisioning,85453f5c,4/26/2025,5/2/2025,Completed,Ashley Shields
+P016,Customer Portal Development,Documentation,edda5b74,4/28/2025,5/5/2025,In Progress,Elizabeth Lopez
+P016,Customer Portal Development,Client Review,cf21e6be,4/29/2025,5/4/2025,Completed,Travis Hays
+P016,Customer Portal Development,Integration Testing,3ab38816,5/3/2025,5/7/2025,Completed,Lori Cox
+P016,Customer Portal Development,User Testing,a079c86e,5/2/2025,5/4/2025,In Progress,Jennifer Parker
+P016,Customer Portal Development,Finalize Design,e7bd20c4,5/5/2025,5/12/2025,In Progress,Jennifer Parker
+P016,Customer Portal Development,Bug Fixing,7b3a850d,5/6/2025,5/10/2025,Delayed,Ashley Shields
+P016,Customer Portal Development,Accessibility Compliance,19b0fa52,5/8/2025,5/15/2025,In Progress,Elizabeth Lopez
+P016,Customer Portal Development,Post-Launch Support,ad8f78b8,5/13/2025,5/16/2025,Completed,Travis Hays
+P016,Customer Portal Development,Submit for Approval,f8e9ee44,5/13/2025,5/20/2025,Delayed,John Campbell
+P016,Customer Portal Development,Post-Launch Support,f0004836,5/16/2025,5/18/2025,Completed,Elizabeth Lopez
+P016,Customer Portal Development,Launch Preparation,48be82f1,5/16/2025,5/18/2025,In Progress,Lori Cox
+P016,Customer Portal Development,User Testing,599d562e,5/19/2025,5/22/2025,In Progress,Kelly Chase
+P016,Customer Portal Development,Deployment,0823e8c1,5/21/2025,5/22/2025,Delayed,Ashley Shields
+P017,Cross-Platform App,Develop Draft Design,4e511ff2,11/3/2024,11/5/2024,Completed,Elizabeth Lopez
+P017,Cross-Platform App,Code Review,10e01103,11/4/2024,11/6/2024,Completed,John Campbell
+P017,Cross-Platform App,Infrastructure Provisioning,b778765d,11/8/2024,11/11/2024,In Progress,Jennifer Parker
+P017,Cross-Platform App,Quality Assurance,6cb1e58f,11/9/2024,11/14/2024,Not Started,Ashley Shields
+P017,Cross-Platform App,Develop Draft Design,ae539850,11/10/2024,11/15/2024,In Progress,Kelly Chase
+P017,Cross-Platform App,Sprint Planning,4bca2f31,11/14/2024,11/16/2024,Not Started,Ashley Shields
+P017,Cross-Platform App,Integration Testing,b36c5b90,11/15/2024,11/20/2024,Delayed,Travis Hays
+P017,Cross-Platform App,Bug Fixing,3f2272ea,11/17/2024,11/21/2024,Not Started,Lori Cox
+P017,Cross-Platform App,Documentation,d5b5c004,11/20/2024,11/24/2024,Delayed,Kelly Chase
+P017,Cross-Platform App,Submit for Approval,c340a6f1,11/21/2024,11/25/2024,Not Started,Travis Hays
+P017,Cross-Platform App,Frontend Development,7d6ac618,11/22/2024,11/26/2024,Not Started,Jennifer Parker
+P017,Cross-Platform App,Develop Draft Design,04d15931,11/25/2024,11/29/2024,Completed,Shawna Thompson
+P017,Cross-Platform App,User Testing,f4689c17,11/26/2024,11/27/2024,Completed,Angela Murphy
+P017,Cross-Platform App,Deployment,e752834b,11/28/2024,12/2/2024,Completed,Angela Murphy
+P018,Payment Gateway Integration,Launch Preparation,006f2770,1/3/2025,1/9/2025,In Progress,Elizabeth Lopez
+P018,Payment Gateway Integration,UAT Sign-off,c922977f,1/4/2025,1/10/2025,Not Started,Ashley Shields
+P018,Payment Gateway Integration,Accessibility Compliance,8a0449c8,1/9/2025,1/15/2025,Not Started,Lori Cox
+P018,Payment Gateway Integration,Finalize Design,82f1e613,1/11/2025,1/16/2025,Completed,Lori Cox
+P018,Payment Gateway Integration,Infrastructure Provisioning,0a215062,1/12/2025,1/17/2025,Not Started,Ashley Shields
+P018,Payment Gateway Integration,Post-Launch Support,2576238d,1/15/2025,1/22/2025,Delayed,Kelly Chase
+P018,Payment Gateway Integration,Infrastructure Provisioning,ac3917cc,1/16/2025,1/22/2025,Delayed,Angela Murphy
+P018,Payment Gateway Integration,Accessibility Compliance,4bf663a8,1/18/2025,1/23/2025,Completed,Jennifer Parker
+P018,Payment Gateway Integration,Documentation,2e49e15a,1/18/2025,1/25/2025,Not Started,Andrea Simmons MD
+P018,Payment Gateway Integration,API Integration,6750c702,1/20/2025,1/24/2025,Delayed,Travis Hays
+P018,Payment Gateway Integration,Go-Live,9f4bf252,1/25/2025,1/29/2025,Delayed,Elizabeth Lopez
+P018,Payment Gateway Integration,Database Setup,dec7f049,1/24/2025,1/26/2025,Completed,Lori Cox
+P018,Payment Gateway Integration,Develop Draft Design,036e5d2e,1/29/2025,2/2/2025,In Progress,Shawna Thompson
+P018,Payment Gateway Integration,Sprint Planning,3320ee61,1/31/2025,2/4/2025,Not Started,John Campbell
+P018,Payment Gateway Integration,Sprint Planning,92b5a0d1,2/2/2025,2/8/2025,Delayed,Angela Murphy
+P018,Payment Gateway Integration,Database Setup,088f46e0,2/2/2025,2/7/2025,Not Started,Andrea Simmons MD
+P018,Payment Gateway Integration,Security Audit,e93cc334,2/5/2025,2/9/2025,Delayed,John Campbell
+P018,Payment Gateway Integration,Sprint Planning,dc23679a,2/7/2025,2/14/2025,Completed,Travis Hays
+P018,Payment Gateway Integration,User Testing,77e3d0bb,2/7/2025,2/8/2025,Not Started,Lori Cox
+P018,Payment Gateway Integration,Database Setup,c17f6f33,2/11/2025,2/14/2025,Not Started,Travis Hays
+P018,Payment Gateway Integration,UAT Sign-off,53c86cab,2/14/2025,2/15/2025,Delayed,Travis Hays
+P018,Payment Gateway Integration,Post-Launch Support,3a403b2f,2/15/2025,2/19/2025,Completed,Elizabeth Lopez
+P018,Payment Gateway Integration,Launch Preparation,1fb1c6fe,2/16/2025,2/18/2025,In Progress,Shawna Thompson
+P018,Payment Gateway Integration,Documentation,01391d13,2/17/2025,2/23/2025,Not Started,Shawna Thompson
+P018,Payment Gateway Integration,Quality Assurance,acf82d16,2/19/2025,2/22/2025,In Progress,Elizabeth Lopez
+P018,Payment Gateway Integration,Database Setup,7abfa092,2/23/2025,2/24/2025,Delayed,Andrea Simmons MD
+P018,Payment Gateway Integration,Quality Assurance,b18b3f3d,2/26/2025,3/1/2025,Not Started,Angela Murphy
+P018,Payment Gateway Integration,Finalize Design,a483694c,2/25/2025,2/28/2025,Delayed,John Campbell
+P018,Payment Gateway Integration,Accessibility Compliance,7ce912e6,3/2/2025,3/5/2025,Not Started,Angela Murphy
+P018,Payment Gateway Integration,Infrastructure Provisioning,c9eb06e1,3/1/2025,3/7/2025,In Progress,Travis Hays
+P018,Payment Gateway Integration,Finalize Design,f0cafb8e,3/6/2025,3/11/2025,Completed,Lori Cox
+P018,Payment Gateway Integration,Infrastructure Provisioning,6136b78d,3/7/2025,3/10/2025,Delayed,Kelly Chase
+P018,Payment Gateway Integration,Code Review,792237b7,3/10/2025,3/16/2025,Not Started,Jennifer Parker
+P018,Payment Gateway Integration,Performance Testing,5b1a86a2,3/10/2025,3/13/2025,Completed,Elizabeth Lopez
+P018,Payment Gateway Integration,Performance Testing,eb8dbabb,3/13/2025,3/18/2025,Delayed,Kelly Chase
+P018,Payment Gateway Integration,Integration Testing,8a33965e,3/13/2025,3/19/2025,Not Started,John Campbell
+P018,Payment Gateway Integration,Launch Preparation,58a15a90,3/17/2025,3/20/2025,Not Started,John Campbell
+P018,Payment Gateway Integration,API Integration,9a3f2d2b,3/20/2025,3/24/2025,In Progress,Travis Hays
+P018,Payment Gateway Integration,Go-Live,23b380d4,3/19/2025,3/25/2025,Completed,Jennifer Parker
+P018,Payment Gateway Integration,Sprint Planning,d3959f22,3/23/2025,3/27/2025,Completed,Kelly Chase
+P018,Payment Gateway Integration,Go-Live,fae94610,3/26/2025,3/30/2025,Completed,John Campbell
+P018,Payment Gateway Integration,Post-Launch Support,71ddb831,3/28/2025,4/3/2025,In Progress,Elizabeth Lopez
+P018,Payment Gateway Integration,Code Review,934a69ac,3/28/2025,4/2/2025,Delayed,Kelly Chase
+P018,Payment Gateway Integration,Client Review,da106341,4/1/2025,4/4/2025,Delayed,John Campbell
+P018,Payment Gateway Integration,Bug Fixing,1fd2076c,3/31/2025,4/5/2025,In Progress,Travis Hays
+P018,Payment Gateway Integration,Client Review,7e5bff59,4/5/2025,4/7/2025,In Progress,Lori Cox
+P018,Payment Gateway Integration,Code Review,2c8af583,4/6/2025,4/13/2025,Delayed,Andrea Simmons MD
+P018,Payment Gateway Integration,Deployment,931abf1f,4/8/2025,4/15/2025,Not Started,Kelly Chase
+P019,Search Engine Optimization,Backend Development,9b0b6d4b,10/1/2024,10/6/2024,Completed,Angela Murphy
+P019,Search Engine Optimization,Frontend Development,e0d001ab,10/3/2024,10/5/2024,Not Started,Travis Hays
+P019,Search Engine Optimization,Quality Assurance,14817b3d,10/7/2024,10/14/2024,Delayed,Kelly Chase
+P019,Search Engine Optimization,UAT Sign-off,0f25fcd1,10/10/2024,10/12/2024,In Progress,Ashley Shields
+P019,Search Engine Optimization,Finalize Design,72c9b6b3,10/10/2024,10/12/2024,Completed,Angela Murphy
+P019,Search Engine Optimization,Finalize Design,4914613e,10/14/2024,10/17/2024,Not Started,Angela Murphy
+P019,Search Engine Optimization,Client Review,bbd7816a,10/15/2024,10/21/2024,Not Started,Travis Hays
+P019,Search Engine Optimization,Develop Draft Design,794c43d3,10/18/2024,10/22/2024,In Progress,Shawna Thompson
+P019,Search Engine Optimization,Performance Testing,83b858f1,10/18/2024,10/21/2024,Delayed,Travis Hays
+P019,Search Engine Optimization,Frontend Development,fe9d47b8,10/21/2024,10/22/2024,Not Started,Elizabeth Lopez
+P019,Search Engine Optimization,Code Review,71b563ac,10/22/2024,10/25/2024,Delayed,Shawna Thompson
+P019,Search Engine Optimization,Post-Launch Support,52640c5a,10/25/2024,11/1/2024,Not Started,Jennifer Parker
+P019,Search Engine Optimization,Infrastructure Provisioning,62e66bdb,10/26/2024,11/2/2024,Delayed,Andrea Simmons MD
+P019,Search Engine Optimization,Documentation,44189318,10/27/2024,10/31/2024,Completed,Shawna Thompson
+P019,Search Engine Optimization,Finalize Design,8ac4955e,10/29/2024,11/5/2024,In Progress,Shawna Thompson
+P019,Search Engine Optimization,Backend Development,710e5723,11/1/2024,11/8/2024,In Progress,Angela Murphy
+P019,Search Engine Optimization,Develop Draft Design,cd82a2cb,11/4/2024,11/11/2024,Delayed,Elizabeth Lopez
+P019,Search Engine Optimization,Performance Testing,8d5cd1ef,11/6/2024,11/13/2024,Not Started,Angela Murphy
+P019,Search Engine Optimization,Backend Development,549d7430,11/9/2024,11/15/2024,Delayed,Travis Hays
+P019,Search Engine Optimization,Security Audit,216ae924,11/11/2024,11/18/2024,Not Started,Lori Cox
+P019,Search Engine Optimization,Sprint Planning,67ea91c7,11/12/2024,11/17/2024,Not Started,Travis Hays
+P019,Search Engine Optimization,Submit for Approval,b87243ec,11/15/2024,11/20/2024,Completed,Angela Murphy
+P019,Search Engine Optimization,Launch Preparation,0c391b53,11/14/2024,11/21/2024,Not Started,Lori Cox
+P019,Search Engine Optimization,Performance Testing,26016073,11/19/2024,11/26/2024,In Progress,Elizabeth Lopez
+P019,Search Engine Optimization,Submit for Approval,23d16431,11/21/2024,11/23/2024,Completed,Travis Hays
+P019,Search Engine Optimization,Documentation,00ebf2f1,11/20/2024,11/21/2024,In Progress,Kelly Chase
+P019,Search Engine Optimization,Frontend Development,9547e6d1,11/23/2024,11/30/2024,Delayed,Travis Hays
+P019,Search Engine Optimization,Frontend Development,053ee490,11/27/2024,12/1/2024,In Progress,Shawna Thompson
+P019,Search Engine Optimization,Submit for Approval,9a411b1b,11/27/2024,12/3/2024,Completed,Shawna Thompson
+P019,Search Engine Optimization,Go-Live,69c9821c,11/29/2024,11/30/2024,Delayed,Travis Hays
+P019,Search Engine Optimization,Documentation,4e48283c,12/1/2024,12/5/2024,Delayed,John Campbell
+P019,Search Engine Optimization,Sprint Planning,26fe2c6d,12/3/2024,12/4/2024,Not Started,Jennifer Parker
+P019,Search Engine Optimization,Documentation,8ce77726,12/5/2024,12/6/2024,Delayed,Kelly Chase
+P019,Search Engine Optimization,Database Setup,551fb469,12/8/2024,12/14/2024,In Progress,Elizabeth Lopez
+P019,Search Engine Optimization,API Integration,4ed0b8d8,12/11/2024,12/16/2024,Delayed,John Campbell
+P019,Search Engine Optimization,Deployment,96bc6f7c,12/12/2024,12/14/2024,Not Started,Travis Hays
+P020,CRM Integration,Go-Live,09beed4e,1/2/2025,1/9/2025,In Progress,Elizabeth Lopez
+P020,CRM Integration,User Testing,05ea15b4,1/3/2025,1/6/2025,In Progress,John Campbell
+P020,CRM Integration,UAT Sign-off,bea5dc70,1/6/2025,1/8/2025,Completed,John Campbell
+P020,CRM Integration,Infrastructure Provisioning,2c40e0e9,1/8/2025,1/9/2025,Not Started,Angela Murphy
+P020,CRM Integration,Documentation,3e38ddc3,1/8/2025,1/15/2025,Completed,Andrea Simmons MD
+P020,CRM Integration,Bug Fixing,37194787,1/10/2025,1/16/2025,Delayed,Andrea Simmons MD
+P020,CRM Integration,Sprint Planning,c8e768e4,1/13/2025,1/14/2025,Not Started,Jennifer Parker
+P020,CRM Integration,User Testing,191f646a,1/13/2025,1/14/2025,Completed,Kelly Chase
+P020,CRM Integration,UAT Sign-off,0375c894,1/18/2025,1/21/2025,Not Started,Elizabeth Lopez
+P020,CRM Integration,Quality Assurance,4ababeb7,1/19/2025,1/24/2025,Delayed,Shawna Thompson
+P020,CRM Integration,Accessibility Compliance,41981ebf,1/22/2025,1/28/2025,Completed,Lori Cox
+P020,CRM Integration,Performance Testing,f783bb35,1/21/2025,1/26/2025,In Progress,Shawna Thompson
+P020,CRM Integration,Frontend Development,d862d9e5,1/24/2025,1/29/2025,Delayed,Travis Hays
+P020,CRM Integration,Code Review,00e98b92,1/28/2025,1/30/2025,Not Started,Travis Hays
+P020,CRM Integration,Client Review,04dc8b81,1/30/2025,2/1/2025,Completed,Ashley Shields
+P020,CRM Integration,Accessibility Compliance,0d493237,1/31/2025,2/1/2025,In Progress,Angela Murphy
+P020,CRM Integration,Stakeholder Feedback,1803ec66,2/2/2025,2/8/2025,Completed,Andrea Simmons MD
+P020,CRM Integration,Post-Launch Support,188de481,2/4/2025,2/7/2025,Completed,Jennifer Parker
+P020,CRM Integration,Frontend Development,ccc553ae,2/6/2025,2/10/2025,In Progress,Travis Hays
+P020,CRM Integration,Deployment,fbe039c7,2/9/2025,2/16/2025,In Progress,Jennifer Parker
+P021,Product Refactoring,Performance Testing,36e87ef4,9/12/2024,9/18/2024,Delayed,Travis Hays
+P021,Product Refactoring,Submit for Approval,a3a48eab,9/15/2024,9/17/2024,Not Started,Shawna Thompson
+P021,Product Refactoring,Client Review,1af450ea,9/18/2024,9/25/2024,Not Started,Ashley Shields
+P021,Product Refactoring,Finalize Design,1006c90b,9/21/2024,9/22/2024,Delayed,Shawna Thompson
+P021,Product Refactoring,Develop Draft Design,3491c584,9/21/2024,9/23/2024,Delayed,Ashley Shields
+P021,Product Refactoring,Backend Development,1aa9d6a2,9/22/2024,9/29/2024,In Progress,Lori Cox
+P021,Product Refactoring,UAT Sign-off,9c5f2681,9/27/2024,10/4/2024,Delayed,Shawna Thompson
+P021,Product Refactoring,Infrastructure Provisioning,855db893,9/27/2024,9/28/2024,Completed,Angela Murphy
+P021,Product Refactoring,Post-Launch Support,c68a5f8a,10/1/2024,10/7/2024,Completed,John Campbell
+P021,Product Refactoring,Go-Live,0b31d673,10/1/2024,10/4/2024,Not Started,Travis Hays
+P021,Product Refactoring,Submit for Approval,cccab3fb,10/3/2024,10/7/2024,Delayed,Andrea Simmons MD
+P021,Product Refactoring,UAT Sign-off,bbba2c69,10/7/2024,10/10/2024,Delayed,Ashley Shields
+P021,Product Refactoring,Code Review,cbd4030e,10/9/2024,10/16/2024,Completed,John Campbell
+P021,Product Refactoring,Code Review,7031d942,10/9/2024,10/13/2024,Delayed,Ashley Shields
+P021,Product Refactoring,Accessibility Compliance,a479500e,10/10/2024,10/15/2024,Completed,Angela Murphy
+P021,Product Refactoring,Accessibility Compliance,9b049c21,10/13/2024,10/19/2024,In Progress,Angela Murphy
+P021,Product Refactoring,Client Review,337d3b2b,10/14/2024,10/17/2024,Delayed,Andrea Simmons MD
+P021,Product Refactoring,User Testing,be0fcc9e,10/16/2024,10/23/2024,Delayed,Shawna Thompson
+P021,Product Refactoring,Accessibility Compliance,b481c919,10/19/2024,10/21/2024,Completed,Kelly Chase
+P021,Product Refactoring,Quality Assurance,ee94275d,10/23/2024,10/26/2024,Not Started,Jennifer Parker
+P021,Product Refactoring,Quality Assurance,f36906a3,10/22/2024,10/23/2024,Not Started,Jennifer Parker
+P021,Product Refactoring,Code Review,9d40b7e8,10/27/2024,10/31/2024,Not Started,Angela Murphy
+P021,Product Refactoring,Backend Development,89f5018e,10/28/2024,10/31/2024,Completed,John Campbell
+P021,Product Refactoring,Documentation,34c1be74,10/28/2024,11/4/2024,Not Started,Ashley Shields
+P021,Product Refactoring,Integration Testing,374a5f5b,11/2/2024,11/4/2024,In Progress,Andrea Simmons MD
+P021,Product Refactoring,Integration Testing,7291aadb,11/1/2024,11/2/2024,Delayed,Shawna Thompson
+P021,Product Refactoring,Post-Launch Support,0b2d304f,11/5/2024,11/10/2024,Delayed,Angela Murphy
+P021,Product Refactoring,Security Audit,9df38100,11/7/2024,11/10/2024,In Progress,Kelly Chase
+P021,Product Refactoring,Integration Testing,d017268a,11/8/2024,11/9/2024,Completed,Ashley Shields
+P021,Product Refactoring,Infrastructure Provisioning,867f8658,11/12/2024,11/17/2024,Not Started,Elizabeth Lopez
+P021,Product Refactoring,Submit for Approval,8621f6ad,11/14/2024,11/15/2024,Not Started,Lori Cox
+P021,Product Refactoring,Performance Testing,f98fd557,11/16/2024,11/20/2024,Delayed,John Campbell
+P021,Product Refactoring,Sprint Planning,8959fdca,11/18/2024,11/21/2024,Completed,Andrea Simmons MD
+P021,Product Refactoring,Documentation,048c5a66,11/19/2024,11/20/2024,In Progress,Lori Cox
+P021,Product Refactoring,Develop Draft Design,62ba9cbb,11/19/2024,11/21/2024,Not Started,Elizabeth Lopez
+P021,Product Refactoring,UAT Sign-off,d5e9ed24,11/22/2024,11/29/2024,Not Started,Kelly Chase
+P021,Product Refactoring,UAT Sign-off,7a4956eb,11/26/2024,12/2/2024,In Progress,Kelly Chase
+P021,Product Refactoring,Database Setup,6a9c5dc1,11/28/2024,12/5/2024,In Progress,Ashley Shields
+P021,Product Refactoring,Integration Testing,733bd143,11/29/2024,12/6/2024,Delayed,Lori Cox
+P021,Product Refactoring,Go-Live,3e8d8995,12/2/2024,12/6/2024,Not Started,Ashley Shields
+P021,Product Refactoring,API Integration,463e6682,12/2/2024,12/4/2024,Delayed,Angela Murphy
+P021,Product Refactoring,Client Review,e58f8788,12/6/2024,12/7/2024,Delayed,John Campbell
+P021,Product Refactoring,User Testing,2e1f5402,12/6/2024,12/8/2024,Completed,John Campbell
+P021,Product Refactoring,API Integration,bf555c8a,12/10/2024,12/11/2024,Completed,Elizabeth Lopez
+P021,Product Refactoring,Sprint Planning,6ca56f56,12/9/2024,12/15/2024,Delayed,Andrea Simmons MD
+P021,Product Refactoring,Bug Fixing,6250ae3e,12/14/2024,12/20/2024,Completed,Elizabeth Lopez
+P021,Product Refactoring,Go-Live,a8226419,12/16/2024,12/20/2024,Delayed,Jennifer Parker
+P021,Product Refactoring,Integration Testing,3e8bfbfd,12/18/2024,12/20/2024,Not Started,Jennifer Parker
+P021,Product Refactoring,Develop Draft Design,09a8f564,12/17/2024,12/21/2024,Completed,Jennifer Parker
+P021,Product Refactoring,Deployment,8a2c46cb,12/19/2024,12/22/2024,Delayed,Angela Murphy
+P022,Codebase Modernization,Code Review,b3350115,9/25/2024,9/29/2024,Completed,Angela Murphy
+P022,Codebase Modernization,Go-Live,59115cf7,9/25/2024,9/30/2024,In Progress,Shawna Thompson
+P022,Codebase Modernization,UAT Sign-off,71da191f,9/26/2024,10/2/2024,Delayed,Lori Cox
+P022,Codebase Modernization,Develop Draft Design,1fba463d,9/29/2024,10/1/2024,In Progress,John Campbell
+P022,Codebase Modernization,Frontend Development,b4500cc2,10/3/2024,10/4/2024,Delayed,Angela Murphy
+P022,Codebase Modernization,Quality Assurance,ba73d17b,10/4/2024,10/6/2024,In Progress,Jennifer Parker
+P022,Codebase Modernization,Finalize Design,af60d0a7,10/4/2024,10/5/2024,Completed,Shawna Thompson
+P022,Codebase Modernization,Finalize Design,cb80e97e,10/8/2024,10/14/2024,In Progress,Lori Cox
+P022,Codebase Modernization,Documentation,569943f4,10/8/2024,10/15/2024,Not Started,Travis Hays
+P022,Codebase Modernization,Stakeholder Feedback,98458dab,10/13/2024,10/14/2024,In Progress,Ashley Shields
+P022,Codebase Modernization,Accessibility Compliance,0f1b4e45,10/13/2024,10/17/2024,Completed,Travis Hays
+P022,Codebase Modernization,Sprint Planning,7d1af6dd,10/16/2024,10/23/2024,Not Started,Jennifer Parker
+P022,Codebase Modernization,Client Review,46f46685,10/18/2024,10/20/2024,Not Started,Elizabeth Lopez
+P022,Codebase Modernization,Frontend Development,010a35b4,10/21/2024,10/28/2024,Delayed,Ashley Shields
+P022,Codebase Modernization,Deployment,0f7eba3d,10/20/2024,10/27/2024,Not Started,Jennifer Parker
+P023,Accessibility Improvements,Code Review,db493ef7,10/17/2024,10/24/2024,In Progress,Angela Murphy
+P023,Accessibility Improvements,Quality Assurance,c2ffc168,10/22/2024,10/29/2024,Not Started,Kelly Chase
+P023,Accessibility Improvements,User Testing,a074b74c,10/24/2024,10/27/2024,Completed,Jennifer Parker
+P023,Accessibility Improvements,Finalize Design,82ec9c9a,10/24/2024,10/25/2024,Completed,Travis Hays
+P023,Accessibility Improvements,Database Setup,eadb374d,10/28/2024,10/31/2024,In Progress,Lori Cox
+P023,Accessibility Improvements,Launch Preparation,bc3b9597,10/30/2024,11/6/2024,In Progress,Lori Cox
+P023,Accessibility Improvements,UAT Sign-off,bd30c2e5,11/1/2024,11/5/2024,Delayed,Angela Murphy
+P023,Accessibility Improvements,Performance Testing,9af4aca1,11/2/2024,11/3/2024,Delayed,Lori Cox
+P023,Accessibility Improvements,Code Review,7326a08e,11/2/2024,11/8/2024,Not Started,Ashley Shields
+P023,Accessibility Improvements,Accessibility Compliance,fabacfab,11/6/2024,11/9/2024,Delayed,Lori Cox
+P023,Accessibility Improvements,Client Review,be8d03bc,11/9/2024,11/10/2024,Delayed,Elizabeth Lopez
+P023,Accessibility Improvements,Database Setup,6c1f2e31,11/9/2024,11/14/2024,Not Started,Jennifer Parker
+P024,Version Upgrade,Infrastructure Provisioning,d42683ef,7/29/2024,7/31/2024,Not Started,Jennifer Parker
+P024,Version Upgrade,Documentation,10e40114,7/31/2024,8/5/2024,Completed,Lori Cox
+P024,Version Upgrade,UAT Sign-off,3e2c730a,7/31/2024,8/1/2024,Completed,Kelly Chase
+P024,Version Upgrade,Accessibility Compliance,0bce9623,8/4/2024,8/10/2024,Delayed,Jennifer Parker
+P024,Version Upgrade,Launch Preparation,05c1e8a0,8/4/2024,8/10/2024,Not Started,Travis Hays
+P024,Version Upgrade,Frontend Development,0ffbaee7,8/8/2024,8/14/2024,Completed,Ashley Shields
+P024,Version Upgrade,API Integration,92b8fb03,8/8/2024,8/15/2024,Not Started,Angela Murphy
+P024,Version Upgrade,Documentation,667d119c,8/12/2024,8/17/2024,Not Started,Angela Murphy
+P024,Version Upgrade,Stakeholder Feedback,15ba2a44,8/14/2024,8/16/2024,In Progress,Travis Hays
+P024,Version Upgrade,Client Review,b4c13cc0,8/16/2024,8/19/2024,In Progress,Andrea Simmons MD
+P024,Version Upgrade,Infrastructure Provisioning,417703b0,8/17/2024,8/18/2024,Completed,Jennifer Parker
+P024,Version Upgrade,Sprint Planning,ec133e3d,8/19/2024,8/26/2024,Completed,Angela Murphy
+P024,Version Upgrade,Documentation,1b7a35d1,8/20/2024,8/22/2024,Delayed,Andrea Simmons MD
+P024,Version Upgrade,Stakeholder Feedback,7e9d19a5,8/22/2024,8/23/2024,Not Started,Andrea Simmons MD
+P024,Version Upgrade,Stakeholder Feedback,fecea262,8/25/2024,8/29/2024,In Progress,Angela Murphy
+P024,Version Upgrade,Bug Fixing,6a9423dc,8/26/2024,8/29/2024,Delayed,John Campbell
+P024,Version Upgrade,API Integration,2d9fc4ec,8/31/2024,9/7/2024,Completed,John Campbell
+P024,Version Upgrade,Sprint Planning,af8c783f,9/2/2024,9/8/2024,Delayed,Angela Murphy
+P024,Version Upgrade,Performance Testing,f3eb6362,9/4/2024,9/10/2024,Delayed,Lori Cox
+P024,Version Upgrade,Documentation,8f30ba86,9/4/2024,9/9/2024,In Progress,Angela Murphy
+P024,Version Upgrade,User Testing,b9309fb5,9/8/2024,9/10/2024,Not Started,Kelly Chase
+P024,Version Upgrade,Security Audit,acedd0fc,9/10/2024,9/14/2024,Not Started,Lori Cox
+P024,Version Upgrade,Database Setup,9941458e,9/11/2024,9/12/2024,Delayed,Ashley Shields
+P024,Version Upgrade,UAT Sign-off,300c6538,9/11/2024,9/14/2024,Completed,Elizabeth Lopez
+P024,Version Upgrade,Accessibility Compliance,cef17626,9/14/2024,9/15/2024,Completed,Shawna Thompson
+P024,Version Upgrade,Security Audit,ecc76750,9/17/2024,9/20/2024,Completed,Angela Murphy
+P024,Version Upgrade,Deployment,3bdec4a2,9/17/2024,9/24/2024,In Progress,Lori Cox
+P025,Product Launch Support,Infrastructure Provisioning,4540dc38,8/24/2024,8/31/2024,Delayed,Jennifer Parker
+P025,Product Launch Support,Go-Live,7aca0123,8/25/2024,8/26/2024,In Progress,Elizabeth Lopez
+P025,Product Launch Support,Frontend Development,c6b7beab,8/29/2024,9/5/2024,In Progress,Kelly Chase
+P025,Product Launch Support,Frontend Development,cb8d1035,9/1/2024,9/2/2024,Completed,Andrea Simmons MD
+P025,Product Launch Support,Quality Assurance,c8f4eac8,8/31/2024,9/4/2024,Not Started,Travis Hays
+P025,Product Launch Support,Launch Preparation,a95f52a2,9/5/2024,9/7/2024,Delayed,Elizabeth Lopez
+P025,Product Launch Support,Develop Draft Design,8a5a4183,9/6/2024,9/10/2024,Completed,Ashley Shields
+P025,Product Launch Support,Security Audit,11db03a4,9/6/2024,9/7/2024,In Progress,Shawna Thompson
+P025,Product Launch Support,Submit for Approval,fbb852b4,9/9/2024,9/11/2024,Completed,Ashley Shields
+P025,Product Launch Support,Submit for Approval,d91faee5,9/11/2024,9/14/2024,Delayed,Lori Cox
+P025,Product Launch Support,Code Review,c1160804,9/12/2024,9/17/2024,Completed,Lori Cox
+P025,Product Launch Support,Frontend Development,eb0e9bc3,9/14/2024,9/20/2024,Not Started,Shawna Thompson
+P025,Product Launch Support,Bug Fixing,3a8a0e51,9/19/2024,9/20/2024,Completed,Lori Cox
+P025,Product Launch Support,Database Setup,55453857,9/21/2024,9/24/2024,Completed,Andrea Simmons MD
+P025,Product Launch Support,API Integration,830bac62,9/20/2024,9/21/2024,In Progress,Kelly Chase
+P025,Product Launch Support,API Integration,e3486927,9/23/2024,9/27/2024,Delayed,Ashley Shields
+P025,Product Launch Support,Client Review,7fe3899e,9/26/2024,9/27/2024,Completed,Angela Murphy
+P025,Product Launch Support,Client Review,9d90b3f6,9/29/2024,9/30/2024,Delayed,Elizabeth Lopez
+P025,Product Launch Support,Stakeholder Feedback,5a6a041c,10/1/2024,10/7/2024,In Progress,Elizabeth Lopez
+P025,Product Launch Support,Performance Testing,2c2c6472,10/2/2024,10/7/2024,Not Started,Kelly Chase
+P025,Product Launch Support,Sprint Planning,644ed9f4,10/3/2024,10/6/2024,Delayed,Angela Murphy
+P025,Product Launch Support,Client Review,f13ebeca,10/4/2024,10/11/2024,In Progress,Lori Cox
+P025,Product Launch Support,Launch Preparation,c758299a,10/8/2024,10/13/2024,In Progress,Kelly Chase
+P025,Product Launch Support,User Testing,2b1fa6a3,10/11/2024,10/16/2024,Delayed,Elizabeth Lopez
+P025,Product Launch Support,Stakeholder Feedback,141fb51d,10/10/2024,10/17/2024,Delayed,John Campbell
+P025,Product Launch Support,Stakeholder Feedback,1c5c2fde,10/14/2024,10/20/2024,In Progress,Elizabeth Lopez
+P025,Product Launch Support,Database Setup,a94b88d0,10/14/2024,10/18/2024,Completed,John Campbell
+P025,Product Launch Support,Documentation,4f118bf9,10/18/2024,10/25/2024,Delayed,Travis Hays
+P025,Product Launch Support,Submit for Approval,61b2e641,10/19/2024,10/24/2024,Completed,Elizabeth Lopez
+P025,Product Launch Support,Sprint Planning,44de697b,10/21/2024,10/27/2024,Not Started,Shawna Thompson
+P025,Product Launch Support,Bug Fixing,3ccd18c9,10/22/2024,10/26/2024,Not Started,Lori Cox
+P025,Product Launch Support,Backend Development,14cc9a74,10/26/2024,10/30/2024,In Progress,John Campbell
+P025,Product Launch Support,User Testing,9623d3c2,10/28/2024,11/3/2024,Completed,Shawna Thompson
+P025,Product Launch Support,Quality Assurance,f863d24f,10/31/2024,11/3/2024,In Progress,Travis Hays
+P025,Product Launch Support,Develop Draft Design,25ada8d5,11/1/2024,11/3/2024,Delayed,John Campbell
+P025,Product Launch Support,Stakeholder Feedback,89cc73cc,11/3/2024,11/4/2024,In Progress,Elizabeth Lopez
+P025,Product Launch Support,Performance Testing,f8aa7b4b,11/6/2024,11/7/2024,Not Started,Lori Cox
+P025,Product Launch Support,Frontend Development,b95a546a,11/8/2024,11/13/2024,Delayed,Andrea Simmons MD
+P025,Product Launch Support,Sprint Planning,cfb26ceb,11/7/2024,11/14/2024,Not Started,Jennifer Parker
+P025,Product Launch Support,Sprint Planning,8fc8aef7,11/9/2024,11/16/2024,Delayed,Ashley Shields
+P025,Product Launch Support,User Testing,10765143,11/13/2024,11/20/2024,Delayed,John Campbell
+P025,Product Launch Support,Go-Live,3b854b49,11/15/2024,11/19/2024,In Progress,Elizabeth Lopez
+P025,Product Launch Support,Security Audit,d006aed2,11/15/2024,11/19/2024,Completed,Kelly Chase
+P025,Product Launch Support,Launch Preparation,407434cd,11/20/2024,11/21/2024,In Progress,Elizabeth Lopez
+P025,Product Launch Support,Go-Live,fe9c8f4f,11/21/2024,11/27/2024,Completed,Kelly Chase
+P025,Product Launch Support,Deployment,6ef54e39,11/21/2024,11/28/2024,Completed,Kelly Chase
+P560158,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P364100,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P973010,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P133731,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P635369,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P355357,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P622150,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P989570,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P164533,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P430118,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P325849,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P152172,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P164550,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P919715,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P838369,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P708043,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P567173,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P593009,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P602903,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P126304,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P312540,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P786310,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P521280,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P953615,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P735148,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P300677,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P948264,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P221885,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P282488,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P641140,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P289338,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P638345,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P497240,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P983030,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P340439,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P770225,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P602142,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P328686,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P165410,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P966637,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P354085,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P735713,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P269372,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P951644,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P953447,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P497223,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P180264,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P351859,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P588212,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P404545,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P694303,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P896966,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P566451,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P774340,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P815224,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P746663,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P924887,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P383691,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P205662,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P114621,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P227441,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P888822,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P824535,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P486542,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P653755,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P703896,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P682048,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P939253,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P308989,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P626927,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P922289,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P774345,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P523526,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P201664,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P856969,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P962616,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P180137,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P739530,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P261211,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P401614,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P730768,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P255476,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P497135,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P442193,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P147390,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P587349,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P225881,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P287591,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P569276,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P314770,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P736421,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P786729,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P333464,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P785691,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P303800,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P137769,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P431444,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P264780,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P368374,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P718884,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P818874,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P554521,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P763261,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P651284,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P687028,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P922028,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P664921,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P818667,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P448792,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P581929,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P661468,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P404009,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P856138,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P530792,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P233559,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P550216,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P127394,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P733456,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P561034,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P226558,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P827947,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P319731,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P896273,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P130729,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P878630,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P400635,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P435144,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P291368,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P976660,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P410079,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P629479,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P742657,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P168185,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P421928,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P417553,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P371060,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P118465,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P959206,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P724792,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P956967,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P642168,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P930085,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P254990,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P882308,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P364971,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P754177,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P928291,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P704177,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P595564,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P537158,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P886688,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P839921,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P597866,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P664941,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P811835,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P384351,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P415437,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P952437,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P221005,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P918051,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P685612,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P128845,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P375896,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P479425,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P536426,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P380837,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P978525,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P711238,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P808091,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P568762,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P434908,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P862800,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P851658,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P529428,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P120925,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P194731,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P972419,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P172150,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P172756,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P639275,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P128288,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P990284,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P216839,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P849309,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P529536,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P317720,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P761720,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P981614,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P853058,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P147426,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P481546,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P602331,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P605427,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P276482,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P752728,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P716484,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P537214,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P149162,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P213360,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P617513,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P865152,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P182494,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P562417,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P137097,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P493135,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P529208,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P580218,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P872596,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P596373,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P758623,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P401160,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P559240,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P662912,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P161219,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P430955,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P212402,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P460682,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P721159,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P316817,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P935876,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P272081,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P246586,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P619490,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P666330,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P539300,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P347744,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P667573,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P349779,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P435521,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P196933,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P261847,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P233219,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P202129,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P238353,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P841379,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P570397,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P325277,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P536338,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P642690,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P775707,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P874943,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P171736,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P630332,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P327358,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P710040,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P848209,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P232264,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P266357,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P849720,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P397596,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P264970,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P740206,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P333076,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P575305,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P972394,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P937535,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P713489,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P849314,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P751107,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P836083,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P388393,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P940134,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P201069,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P819398,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P234096,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P332172,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P896401,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P199158,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P524164,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P984664,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P237350,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P761800,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P601724,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P628455,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P215923,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P789617,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P538358,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P618521,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P562285,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P610910,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P215834,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P455150,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P326528,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P632601,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P146391,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P385867,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P433420,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P154395,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P780987,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P271227,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P455295,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P765623,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P821208,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P161629,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P499820,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P474991,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P535042,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P298085,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P167732,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P562733,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P364994,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P484768,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P424781,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P712821,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P688567,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P826487,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P456241,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P356733,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P591579,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P945101,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P637949,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P528613,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P533084,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P930206,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P744383,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P931362,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P408037,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P133554,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P670924,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P531490,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P555064,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P423427,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P983318,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P289793,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P488687,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P357809,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P257402,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P435074,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P533459,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P800084,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P146288,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P456148,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P168068,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P341577,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P842773,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P579410,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P461561,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P837327,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P303395,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P636280,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P799652,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P690113,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P746884,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P450333,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P144178,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P919980,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P117656,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P646706,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P963430,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P975657,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P720015,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P463871,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P362522,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P764748,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P904347,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P596573,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P769475,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P791977,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P163035,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P332906,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P198622,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P405258,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P132635,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P243065,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P261132,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P246487,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P817850,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P499896,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P585640,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P384857,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P963807,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P505132,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P465871,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P598823,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P871099,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P776225,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P262789,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P785536,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P900916,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P944469,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P363934,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P835277,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P330789,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P245276,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P856487,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P429769,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P118298,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P247274,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P194176,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P286121,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P507268,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P805988,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P993128,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P657621,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P679326,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P647085,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P380522,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P528507,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P881271,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P221368,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P289487,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P911584,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P186688,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P545818,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P818048,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P146985,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P943936,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P166828,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P608017,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P153039,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P969691,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P414753,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P208115,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P994022,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P605666,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P682309,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P652285,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P276084,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P809053,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P418093,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P792145,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P122567,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P590797,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P482749,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P678815,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P479047,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P425160,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P677102,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P437157,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P774368,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P367393,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P821377,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P735969,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P811873,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P172137,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P873679,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P681904,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P266796,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P552701,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P283668,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P487185,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P218301,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P883721,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P814806,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P585288,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P276366,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P490168,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P471617,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P626290,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P881738,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P732576,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P944582,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P610252,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P263949,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P946925,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P185121,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P472798,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P749583,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P659147,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P874928,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P273320,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P525706,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P385437,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P590829,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P922142,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P977739,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P494543,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P942325,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P484236,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P352335,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P810489,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P499251,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P549831,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P716039,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
+P468094,TBD,TBD,TBD,1/1/2027,12/31/2027,Not Started,TBD
